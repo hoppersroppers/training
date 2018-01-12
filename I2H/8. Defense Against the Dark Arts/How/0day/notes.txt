@@ -1,0 +1,22 @@
+* You got 0'Dayd
+        * Guess what... you're not important enough for that. See: threat modeling
+* Here are some prices
+https://www.wired.com/2015/11/heres-a-spy-firms-price-list-for-secret-hacker-techniques/
+
+https://www.zerodium.com/program.html
+
+
+
+Remember thegrugq, from the opsec lessons? 
+
+https://www.forbes.com/sites/andygreenberg/2012/03/23/shopping-for-zero-days-an-price-list-for-hackers-secret-software-exploits/#4c1e46232660
+
+
+
+full disclosure, responsible disclosure,.... selling. 
+
+
+
+bug bounty program
+
+hackerone account/bugcrowd account

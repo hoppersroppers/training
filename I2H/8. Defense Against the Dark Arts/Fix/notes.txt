@@ -1,0 +1,13 @@
+How to restore if you get hacked
+
+https://blog.malwarebytes.com/101/2015/06/10-easy-steps-to-clean-your-infected-computer/
+
+Where malware saves itself?
+
+Persistence?
+
+Rootkit/bootkit persistence
+
+
+
+are you still vulnerable? if you dont patch and put yourself out, its just popped again

@@ -1,0 +1,20 @@
+* You got tricked
+	 * You ran someone elses code and gave them access  
+	 * You got tricked  https://decentsecurity.com/how-you-get-infected/
+
+	* You ran someone elses code and gave them access
+	   * How?	
+	* Phishing
+https://ssd.eff.org/en/module/how-avoid-phishing-attacks
+	 * Or you got cred phished (can be done via phone, email, chat, in a form)
+* Google oauth worm?
+		
+	  * **Recognize suspicious links and attachments** 		   
+                 * https://blog.malwarebytes.com/101/2017/06/somethings-phishy-how-to-detect-phishing-attempts/
+	   
+              * Someone just tried to phish me!
+                 * https://decentsecurity.com/malware-web-and-phishing-investigation/
+             * Report to Academy
+                 * **Analyze Phishing for creds email**  
+                 * **Malicious attachments**
+                 * **Analzye Malicious link**

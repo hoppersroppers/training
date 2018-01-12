@@ -1,0 +1,21 @@
+Antivirus
+
+* https://www.microsoft.com/en-us/safety/pc-security/windows-defender.aspx * Anti-Virus * MalwareBytes
+
+Risks of using public workstations 
+
+IoC
+
+* Recognize adware symptoms * Constant popups * Home page redirection * Search engine redirection
+
+Threat Hunting
+
+* wireshark 
+
+* process hunting
+
+ * Glasseye thing
+
+* https://blog.malwarebytes.com/101/2016/05/how-to-tell-if-youre-infected-with-malware/
+
+https://ssd.eff.org/en/module/how-do-i-protect-myself-against-malware

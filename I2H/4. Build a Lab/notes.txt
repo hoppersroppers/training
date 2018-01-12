@@ -1,0 +1,29 @@
+Building a Lab
+Building your own “Lab” is important for a lot of reasons, but most importantly it is fun and teaches you a bunch of valuable information. In this section we will do some work securing our daily lives and install a virtual machine for us to work on. What you will be making is uniquely yours and will be something that you will work on and refine for the rest of your career.
+
+Virtualization
+
+Why virtualization
+
+https://www.infoq.com/articles/virtualization-intro
+Install VMWare
+
+http://www.vmware.com/go/tryplayerpro-win-64
+Install Ubuntu
+
+https://youtu.be/yVpbFMhOAwE
+http://releases.ubuntu.com/16.04/ubuntu-16.04-desktop-amd64.iso
+Sudo
+
+Package Manager
+
+update and upgrade
+
+Install VMWare Tools
+
+https://kb.vmware.com/selfservice/microsites/search.do?language=en_US&cmd=displayKC&externalId=1022525
+Sudo apt-get install tmux
+
+Sudo apt-get install python
+
+WHAT OTHER ESSENTIALS????
