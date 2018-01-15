@@ -1,16 +1,25 @@
 * Operating Systems
+
+
     * What are they? 
        * https://www.tutorialspoint.com/operating_system/index.htm
-       * https://en.wikiversity.org/wiki/IT_Fundamentals/Operating_Systems
+         * I should add a pile of questions
     * How does booting work?
+       * So what is a bootkit?
     * Desktop
+       * Windows
        * Linux
           * Ubuntu
           * Kali
-          * Mac
+          * Macs
           * RedHat
-       * Windows
     * Mobile
        * ios
        * android
        * google
+
+
+https://www.usna.edu/Users/cs/wcbrown/courses/si110AY13S/lec/l04/lec.html
+https://www.usna.edu/Users/cs/wcbrown/courses/si110AY13S/lec/l04/hw/hw.pdf
+
+https://www.usna.edu/Users/cs/wcbrown/courses/si110AY13S/lec/l05/lec.html
