@@ -1,16 +1,28 @@
-* Its really just a ton of 1s and 0s
-* binary, hex, octal other shit
-https://en.wikiversity.org/wiki/IT_Fundamentals/Hardware
+* History of Computers
+http://www.explainthatstuff.com/historyofcomputers.html
 
-* Digital Data and Hardware
-    * https://www.tutorialspoint.com/computer_fundamentals/index.htm
-    
-    * bits and bytes
-    * hardware 
-    * peripherals
-    * old computers
-    * new computers
-    * military hardware
-    
-    
-Naval Academy's Wasn't Bad.
+All that is good information, but the critical thing is that it's all just been progressively smaller ways to store 1s and zeros. 
+
+This is a little technical, but it's important information. Don't worry about totally understanding it
+Need a good digital logic explainer
+
+What can you represent with all those 1s and 0s. 
+Do this https://code.tutsplus.com/articles/number-systems-an-introduction-to-binary-hexadecimal-and-more--active-10848
+Also, hey, what is ascii? This is ascii. 
+Alright. Now. Convert 17 in Ascii to Binary and Hex
+What does 1011101001010101010 mean
+Convert Go Navy to Octal
+What is abd45388def
+Also, yeah there is this. 
+
+http://www.electronics-tutorials.ws/binary/bin_2.html
+http://www.asciitohex.com/
+
+
+https://www.usna.edu/Users/cs/wcbrown/courses/si110AY13S/lec/l01/lec.html
+https://www.usna.edu/Users/cs/wcbrown/courses/si110AY13S/lec/l01/hw/hw.pdf
+
+https://www.usna.edu/Users/cs/wcbrown/courses/si110AY13S/lec/l02/lec.html
+
+https://www.usna.edu/Users/cs/wcbrown/courses/si110AY13S/lec/l02/hw/hw.pdf
+
