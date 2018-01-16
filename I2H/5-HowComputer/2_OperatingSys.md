@@ -1,6 +1,3 @@
-* Operating Systems
-
-
     * What are they? 
        * https://www.tutorialspoint.com/operating_system/index.htm
          * I should add a pile of questions
@@ -13,6 +10,7 @@
           * Kali
           * Macs
           * RedHat
+          * ARM
     * Mobile
        * ios
        * android
