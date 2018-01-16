@@ -4,19 +4,22 @@
     "[The Internet] is not a truck. It's a series of tubes."
       ARPANET
        Tim Berners-Lee
-       * http://www.internetsociety.org/internet/what-internet/history-internet/brief-history-internet
-	 * DNS
-   * Hosting
-   * Routing
- 
+   * http://www.internetsociety.org/internet/what-internet/history-internet/brief-history-internet
+   * https://web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm
+      * all of this stuff
+   * DNS stuff, direct ip 
+   * whois, stuff like that
    * Technical Architecture
    * Information Architecture
-   * Security+
-     * https://www.cybrary.it/course/comptia-security-plus
- * Wayback machine
- 	* chrome power user
+   * Wireshark stuff
+   * Internet Hosting providers   
+   * Internet Routing providers
+      * routing
+  
+  * Wayback machine
+	* chrome power user
 		* http://www.makeuseof.com/tag/how-to-become-a-chrome-power-user-part-1-master-the-keyboard/
-	
+
 	* google hacking
 		 * https://www.google.com/?hl=xx-hacker
 		 * what is 1337 speak?
@@ -28,7 +31,7 @@
 		    
 		    
  * Tracking
-         * A famous quote about the internet is “If a service is free, the product is you”. Silicon Valley is built on advertising money, and they make their money targeting advertisements. The more targeted, the more money they can charge. 
+         * A famous quote about the internet is “If a service is free, the product is you”. this applies from social media to news sites to free antivirus. Silicon Valley is built on advertising money, and they make their money targeting advertisements. The more targeted, the more money they can charge. It isn't always advertisments though. Anything can be  turned into a dataset from pictures of your face, your conversations, any behavioral feature, or things like what you buy and what malware you download.
          * - Read how it works:
             * https://www.newfangled.com/if-they-are-watching-should-you-watch-too/
             * Describe one potential abuse of tracking and one benefit of tracking in 2-3 sentences. 
