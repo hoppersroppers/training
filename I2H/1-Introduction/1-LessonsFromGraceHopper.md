@@ -34,3 +34,4 @@ Anytime something on this site doesn't seem to be matching up with our core tene
 # So What is ROP?
 All you need to know right now is that ROP is an advanced exploitation technique which beats advanced defenses by chaining together code which was already in a program in order to perform unexpected malicious behavior which gives an attacker control. That definition is good enough for now, but if you stick around with us, soon enough you will know what it means and eventually you will be writing exploits of your own.
 
+ROP Theory of Learning! Go into significantly greater detail of how ROP works such that the learner can get a good GROK of what that means. Now use that as a lens of how they will learn throughout this course, reusing already learned information and arranging it to jump to new locations!
