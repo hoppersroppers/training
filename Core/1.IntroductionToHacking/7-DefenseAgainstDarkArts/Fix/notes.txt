@@ -12,8 +12,13 @@ Rootkit/bootkit persistence
 
 are you still vulnerable? if you dont patch and put yourself out, its just popped again
 
+# Windows Securing
 
 Do Taylor Swift's Holiday list and understand what you are doing 
 https://decentsecurity.com/holiday-tasks/
 
 https://decentsecurity.com/securing-your-computer/
+
+# Linux Securing
+
+https://www.codelitt.com/blog/my-first-10-minutes-on-a-server-primer-for-securing-ubuntu/
