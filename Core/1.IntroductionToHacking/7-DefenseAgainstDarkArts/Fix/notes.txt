@@ -11,3 +11,7 @@ Rootkit/bootkit persistence
 
 
 are you still vulnerable? if you dont patch and put yourself out, its just popped again
+
+
+Do Taylor Swift's Holiday list and understand what you are doing 
+https://decentsecurity.com/holiday-tasks/
