@@ -9,6 +9,7 @@ These are all of the reasons you might get hacked.
 # You weren't updated
 
 * If you don't have auto update turned on... you need to fix that.
+* Turn it on for everything
 * Android doesnt update well, apple does it very well. 
 
 # You used a shitty password 
@@ -77,23 +78,31 @@ Passwords are hard, and losing your primary email can pretty much stop your life
 
 	* You ran someone elses code and gave them access
 	   * How?	
-	   * Check for outdated extensions
+	   * Phished!!!
+	   **Recognize suspicious links and attachments** 		   
+                 * https://blog.malwarebytes.com/101/2017/06/somethings-phishy-how-to-detect-phishing-attempts/
+		 
+		 * Someone just tried to phish me!
+                 * https://decentsecurity.com/malware-web-and-phishing-investigation/
+             * Report to Academy
+                 * **Analyze Phishing for creds email**  
+                 * **Malicious attachments**
+                 * **Analzye Malicious link**
+		    * Set UAC to high
+	   * Check for outdated extensions! 
+	   * Google scan your computer 
+	   * You ran some backdoored shit!
+	   
 	   Check to see apps youve given access to your email/fb whatever
 * Check to see devices with access to your email 
 	* Phishing
 https://ssd.eff.org/en/module/how-avoid-phishing-attacks
 	 * Or you got cred phished (can be done via phone, email, chat, in a form)
 * Google oauth worm? Tricked so many people,
-		
-	  * **Recognize suspicious links and attachments** 		   
-                 * https://blog.malwarebytes.com/101/2017/06/somethings-phishy-how-to-detect-phishing-attempts/
+	
+	  * 
 	   
-              * Someone just tried to phish me!
-                 * https://decentsecurity.com/malware-web-and-phishing-investigation/
-             * Report to Academy
-                 * **Analyze Phishing for creds email**  
-                 * **Malicious attachments**
-                 * **Analzye Malicious link**
+              
 				 
 				 
 # OPSEC is king
@@ -215,6 +224,10 @@ This one requires a google, but who is Mallory, and what makes her different fro
 ## How to Be Safe
 VPN/proxy/tor
 
+https everywhere!
+ublock origin should alreayd be on
+Browser safety extensions!
+
 https://danielmiessler.com/study/internet-deep-dark-web
 
 Basic wifi safety
@@ -277,9 +290,16 @@ If someone gets someone in your groups phone, it doesnt matter
 	    * "Rubber hose cryptography"
 		* https://en.wikipedia.org/wiki/Rubber-hose_cryptanalysis
 		* https://xkcd.com/538/
+		 
+   * Full Disk Encryption
+          * OS 
+	  * Truecrypt style
+	  
+	  
    * **Do a linux password reset **
    * **Do a windows stickykeys reset **
   
+  * What is BIOS? Why do you encrypt it?
 
    * Rubber Hose
         * https://www.schneier.com/blog/archives/2009/07/laptop_security.html
@@ -307,7 +327,11 @@ https://www.wired.com/2015/11/heres-a-spy-firms-price-list-for-secret-hacker-tec
 
 https://www.zerodium.com/program.html
 
+set flash click to play
+Adobe Reader DC
+Adobe Reader is actually pretty safe if you have the full suite of security settings turned on. In the case of Adobe Reader DC, there's just one setting you need to change:
 
+Edit > Preferences > Security (Enhanced) > Protected View > Files from potentially unsafe locations
 
 Remember thegrugq, from the opsec lessons? 
 
