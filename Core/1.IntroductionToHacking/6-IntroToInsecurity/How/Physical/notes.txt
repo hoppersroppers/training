@@ -17,6 +17,9 @@
 	   * https://en.wikipedia.org/wiki/TrueCrypt
 	      * plausible deniability
 	      * cold boot attack
+	     
+	     * Black Bag Cryptanalysis
+	     https://en.wikipedia.org/wiki/Black-bag_cryptanalysis
 	      
 	* Youre actually legally obligated to turn a password over in the US... sorta. its complicated.
          
