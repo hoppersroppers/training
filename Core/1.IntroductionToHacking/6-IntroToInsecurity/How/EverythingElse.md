@@ -1,12 +1,15 @@
+As we went over earlier, if a sufficiently advanced attacker wants to get into your stuff specifically, they will.
+
+But we have looked at our threat model before and have determined we are probably not a person of interest to the NSA/Mossad/FSB, right? Right???
+
+So according to our threat model, the most likely people to hack us will be random criminals who don't care who we are, they're just trying to get in. While it is an over simplification, "An ounce of prevention is worth a pound of cure". If you are able to harden yourself ahead of time and not be an easy target, you will be much less likely to get hit with a non-targeted attack, and in the possibility that you ever are targeted, you will be more likely to not get caught off guard.
+
 These are all of the reasons you might get hacked. 
 
 # You weren't updated
 
-* Expand this!
-   * https://decentsecurity.com/securing-your-computer/
-
-* Check to see apps youve given access to your email (other accounts)
-* Check to see devices with access to your email 
+* If you don't have auto update turned on... you need to fix that.
+* Android doesnt update well, apple does it very well. 
 
 # You used a shitty password 
 https://ssd.eff.org/en/module/creating-strong-passwords
@@ -74,6 +77,9 @@ Passwords are hard, and losing your primary email can pretty much stop your life
 
 	* You ran someone elses code and gave them access
 	   * How?	
+	   * Check for outdated extensions
+	   Check to see apps youve given access to your email/fb whatever
+* Check to see devices with access to your email 
 	* Phishing
 https://ssd.eff.org/en/module/how-avoid-phishing-attacks
 	 * Or you got cred phished (can be done via phone, email, chat, in a form)
