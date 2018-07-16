@@ -1,10 +1,12 @@
+These are all of the reasons you might get hacked. 
+
 # You weren't updated
 
-                * Expand this!
-                   * https://decentsecurity.com/securing-your-computer/
+* Expand this!
+   * https://decentsecurity.com/securing-your-computer/
 
-		* Check to see apps youve given access to your email (other accounts)
-		* Check to see devices with access to your email 
+* Check to see apps youve given access to your email (other accounts)
+* Check to see devices with access to your email 
 
 # You used a shitty password 
 https://ssd.eff.org/en/module/creating-strong-passwords
