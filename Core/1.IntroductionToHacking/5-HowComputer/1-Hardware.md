@@ -9,6 +9,7 @@
 * So what do we do with those 1s and 0s?
    * This is a little technical, but it's important information. Don't worry about totally understanding it
    * Need a good digital logic explainer
+   * Nand gates and shit
 
 * What can you represent with all those 1s and 0s. 
    * Do this https://code.tutsplus.com/articles/number-systems-an-introduction-to-binary-hexadecimal-and-more--active-10848
