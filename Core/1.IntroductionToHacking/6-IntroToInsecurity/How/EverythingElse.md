@@ -1,5 +1,4 @@
 # You weren't updated
-* You werent updated
 
                 * Expand this!
                    * https://decentsecurity.com/securing-your-computer/
@@ -7,12 +6,12 @@
 		* Check to see apps youve given access to your email (other accounts)
 		* Check to see devices with access to your email 
 
-		# You used a shitty password
+# You used a shitty password 
 https://ssd.eff.org/en/module/creating-strong-passwords
+ 
+Passwords are hard, and losing your primary email can pretty much stop your life as you attempt to regain control. Luckily, there is a lot you can do to keep yourself from becoming the low hanging fruit. After this section, not only will you be able to protect yourself, but you’ll be able to share this with others.
 
- You used a bad password
-    *  * Passwords are hard, and losing your primary email can pretty much stop your life as you attempt to regain control. Luckily, there is a lot you can do to keep yourself from becoming the low hanging fruit. After this section, not only will you be able to protect yourself, but you’ll be able to share this with others.
-     * - Read this
+     * Read this
         * http://www.passwordanalytics.com/theory/passwords/
         * Read Passwords 101 and submit one example each of the three ways you authenticate yourself.
         * Read Good Passwords 101 and submit a description of what makes a good password
@@ -22,30 +21,35 @@ https://ssd.eff.org/en/module/creating-strong-passwords
         * Read Cracking and explain which technique an attacker would use to attack a password that they knew to be three random words added together.
      * Why They Matter
         * Here is a brief experiment for you to try. Try to make a rough guess how many web sites you use on a regular basis use your primary email as their account recovery address. Now, try to think about which of those sites are the most important to you that they remain secure; social media, banking, other email accounts. Now think of the sketchy sites you reuse the same password on. If those sites are breached, and the attacker gets your password, they can use it to take your other accounts.
+	
         * - Now, work through the _____ Risk Assessment Steps to determine the level of risk that you assume by reusing your password. 
         * Password Manager
         * All is not lost however, luckily you do not have to memorize hundreds of high entropy passwords or carry them around in a locked diary. Password managers provide the ability to generate and store secure passwords across devices, all controlled by a single master password. This means you only need to know one password, and the rest can be pseudo-randomly generated. 
-        * - Read this! 
+        * Read this! 
            * https://www.howtogeek.com/141500/why-you-should-use-a-password-manager-and-how-to-get-started/
            * Submit a 2-3 sentence statement trying to convince my grandma to use a password manager.
 		* Relevant XKCD https://www.explainxkcd.com/wiki/index.php/936#Explanation
 		   * What password has 2^44 bits of entropy?
 
-        * - Install LastPass https://lastpass.com/
-           * Submit a screenshot of something
-        * Complete the LastPass Security challenge
-        * Single Sign On Awareness
-    * What is 2 factor authentication?
+* Install LastPass https://lastpass.com/
+* Submit a screenshot of something
+* Complete the LastPass Security challenge
+ 
+ Single Sign On Awareness
+  
+  What is multi factor authentication?
        
 
-    * Multifactor authentication
-      * https://www.cs.cornell.edu/courses/cs513/2005fa/NNLauthPeople.html
-      * Cell Phone
-      
-          * Yubikey
+   Multifactor authentication
+   https://www.cs.cornell.edu/courses/cs513/2005fa/NNLauthPeople.html
+    
+  * Cell Phone
+     * SMS
+     * Google Auth
+  * Yubikey
          * https://www.yubico.com/why-yubico/how-yubikey-works/
 	 * You should get one
-    
+  
      * Zuck Fucked
      * https://www.forbes.com/sites/leemathews/2016/11/16/mark-zuckerberg-hacked-for-the-third-time-this-year/#28a74ee5bd9a
      * Password Resets are scary!
@@ -260,13 +264,14 @@ If someone gets someone in your groups phone, it doesnt matter
 	    * USB Malware
 	       * Stuxnet spread
 	       * Rubberducky
+	       * BashBunny
 	    * if someone has hands on keyboard, they own that computer
 	    * "Rubber hose cryptography"
 		* https://en.wikipedia.org/wiki/Rubber-hose_cryptanalysis
 		* https://xkcd.com/538/
    * **Do a linux password reset **
    * **Do a windows stickykeys reset **
-   * **Chown2Pwn **
+  
 
    * Rubber Hose
         * https://www.schneier.com/blog/archives/2009/07/laptop_security.html
@@ -278,7 +283,12 @@ If someone gets someone in your groups phone, it doesnt matter
 	     * Black Bag Cryptanalysis
 	     https://en.wikipedia.org/wiki/Black-bag_cryptanalysis
 	      
-	* Youre actually legally obligated to turn a password over in the US... sorta. its complicated.
+	* Legal issues surrounding forced password disclosure
+	
+	* Biometrics
+	   * Fingerprint unlocks
+	   * retina/voice/face
+	   * Legal stuff
          
 
 		 
