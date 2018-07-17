@@ -23,6 +23,7 @@ https://decentsecurity.com/securing-your-computer/
 
 https://www.codelitt.com/blog/my-first-10-minutes-on-a-server-primer-for-securing-ubuntu/
 
+<<<<<<< HEAD
 ???? Signal: +19172571382
 ???? Jabber/XMPP: lorenzofb@jabber.ccc.de
 ???? Wire: lorenzofb
@@ -32,6 +33,17 @@ Securedrop: http://e3v3x57ykz25uvij.onion
 
 ?? lorenzo@motherboard.tv 
 PGP?? https://keybase.io/lorenzofb/key.asc �
+=======
+🔒☎️ Signal: +19172571382
+🔒⌨️ Jabber/XMPP: lorenzofb@jabber.ccc.de
+🔒📱 Wire: lorenzofb
+🔒🖥️ Ricochet: ricochet:p5mbxsckf3qbmobc
+
+Securedrop: http://e3v3x57ykz25uvij.onion  
+
+📬 lorenzo@motherboard.tv 
+PGP🔑 https://keybase.io/lorenzofb/key.asc …
+>>>>>>> origin/master
 
 https://t.co/TNUSDr1I92
 
@@ -63,7 +75,11 @@ google sec checkup... others like it? https://myaccount.google.com/security-chec
 
 sanders large pcaps
 
+<<<<<<< HEAD
 �Hack Yourself First� with @troyhunt
+=======
+“Hack Yourself First” with @troyhunt
+>>>>>>> origin/master
 
 CIS Top 20 Controls.
 
@@ -86,4 +102,10 @@ PCI
 Legal shit
 risk management
 
+<<<<<<< HEAD
 https://medium.com/starting-up-security/how-to-measure-risk-with-a-better-okr-c259bccf359e
+=======
+https://medium.com/starting-up-security/how-to-measure-risk-with-a-better-okr-c259bccf359e
+
+
+>>>>>>> origin/master
