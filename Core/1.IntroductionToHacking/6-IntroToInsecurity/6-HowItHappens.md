@@ -6,12 +6,6 @@ So according to our threat model, the most likely people to hack us will be rand
 
 These are all of the reasons you might get hacked. 
 
-# You weren't updated
-
-* If you don't have auto update turned on... you need to fix that.
-* Turn it on for everything
-* Android doesnt update well, apple does it very well. 
-
 # You used a shitty password 
 https://ssd.eff.org/en/module/creating-strong-passwords
  
@@ -99,11 +93,13 @@ Passwords are hard, and losing your primary email can pretty much stop your life
 https://ssd.eff.org/en/module/how-avoid-phishing-attacks
 	 * Or you got cred phished (can be done via phone, email, chat, in a form)
 * Google oauth worm? Tricked so many people,
-	
-	  * 
-	   
-              
-				 
+
+# You weren't updated
+
+* Modern systems realize that you are more safe if updates occur automatically. There are very very few situations in which you cannot have auto update turned on. 99% of those situations involve Windows boxes running legacy critical systems. If you don't have auto update turned on... you need to fix that.
+* Turn it on for everything
+* Android doesnt update well, apple does it very well. 
+
 				 
 # OPSEC is king
 Someone found you IRL!       
@@ -152,7 +148,7 @@ Someone found you IRL!
   	   * **Use a Burner email**
        * **Burner phone number**
    * **Create a fake person**
-   * **Create a fake facebook, twitter, linkedin, ...**
+               * **Create a fake facebook, twitter, linkedin, ...**
 
 # Hostile Networks
 ## Intro
@@ -237,26 +233,7 @@ https://www.google.com/safetycenter/everyone/start/safe-networks/
 Nation state ownage
 Threat modeling
 
-# They got your IP address
-https://ssd.eff.org/en/module/how-circumvent-online-censorship
 
-* Someone saw your IP address!!!
-   * visiting a website... whats my IP
-       * **LOIC**
-   * GeoIP
-   * proxy
-          * We made one for you
-      * port forward
-      * proxychains! 
-   * **IP from pic viewer **
-      * https://iplogger.org/
-   * **Honeydocs**
-      * https://github.com/threatstack/honeyfiles
-  	   * Use a VPN
-      * We made one for you
-     
-       * TOR
-       * https://danielmiessler.com/study/internet-deep-dark-web	
 	   
 # Someone else got Owned
 * Someone else got tricked/hacked
@@ -279,6 +256,27 @@ Get SIGNAL
 If someone hacks your phone, it doesn't matter
 If someone gets someone in your groups phone, it doesnt matter	   
 
+# They got your IP address
+https://ssd.eff.org/en/module/how-circumvent-online-censorship
+
+* Someone saw your IP address!!!
+   * visiting a website... whats my IP
+       * **LOIC**
+   * GeoIP
+   * proxy
+          * We made one for you
+      * port forward
+      * proxychains! 
+   * **IP from pic viewer **
+      * https://iplogger.org/
+   * **Honeydocs**
+      * https://github.com/threatstack/honeyfiles
+  	   * Use a VPN
+      * We made one for you
+     
+       * TOR
+       * https://danielmiessler.com/study/internet-deep-dark-web	
+       
 # Physical attacks
 * Physical security
 	* "Evil Maid"
