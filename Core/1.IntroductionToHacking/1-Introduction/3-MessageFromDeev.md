@@ -18,5 +18,6 @@ There is a dark side to all of this that cannot be ignored. Not everyone is work
 
 You stand on a platform larger than any platform imaginable up until the dawn of this age of technology. Your lever consists of the sum of human knowledge and the sum of humanity’s technological progress. If you want to move the world, all you need to do is lean on it. 
 
-Hack the planet.
+hack the planet
+
 -dennis 
