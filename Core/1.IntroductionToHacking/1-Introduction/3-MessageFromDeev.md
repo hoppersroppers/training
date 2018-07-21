@@ -6,7 +6,7 @@ This training is dedicated to the memories of [Aaron Swartz](https://en.wikipedi
 
 ### *my name is dennis and I like computers.* 
 
-Computers are special because they are not wrong. They execute the instructions they are given by humans and the result that comes out the other end is exactly what they were told to do. We can change those instructions into anything and because of this, we can do anything. We can catch up on the news, read books, look at pictures and watch movies. We can learn anything. We can talk to our friends, make music, write books, create art. We can create knowledge. We can write new software. We can share what we have made with strangers. 
+Computers are special because they are not wrong. They execute the instructions they are given by humans and the result that comes out the other end is exactly what they were told to do.  If it makes a mistake, it's because a human screwed it up. We can change those instructions into anything and because of this, we can do anything. We can catch up on the news, read books, look at pictures and watch movies. We can learn anything. We can talk to our friends, make music, write books, create art. We can create knowledge. We can write new software. We can share what we have made with strangers. 
 
 The world is a place filled with good people, and bad people, and people in between just trying to get by. The internet reflects the world that gave birth to it. It is a place where you can be exposed to the best of humanity and the worst of humanity in a single burst of electrons. The internet is a bad place sometimes. The world can be a bad place sometimes too. 
 
