@@ -5,6 +5,8 @@ I fell in love with security a long time ago, and while the motivations behind m
 
 There are countless things you can do with technology to change the world: Teach other people. Build tools and tech able to solve real world problems. Create social movements. Empower everyone. I want to do all of those things. I probably will someday. But I want to start by helping other people learn to use their superpower, and help steer people in the right direction. That’s why this site exists, and hopefully, if you’re here for the right reasons, you’ll be able to jump into the fight with the tools you need to succeed. 
 
+Something something: provide a structured framework, positive guidance, community. 
+
 ## Content
 This curriculum was created based on inputs from members of the great classes of '15, '16, '17, and '18. We put this curriculum together by aggregating all of the guides on how to become successful in information security, took what we thought was important, added things of our own, and personalized it for the Academy. This is the first iteration of the curriculum online and it should change drastically as we see what does and doesn't work.
 
