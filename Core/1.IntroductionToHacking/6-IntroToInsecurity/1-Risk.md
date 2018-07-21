@@ -18,6 +18,7 @@ What are the three levels of ORM?
 
 ## Threat Modeling 
 Read this: https://arstechnica.com/information-technology/2017/07/how-i-learned-to-stop-worrying-mostly-and-love-my-threat-model/
+https://docs.google.com/presentation/d/1A-0bggHr8fk0_UJhm251-GfyYShU0II3KNRDt9-uzjU/edit#slide=id.gcbf708df7_3_112
 
 Use this page to help assess what your risks are:https://ssd.eff.org/en/module/assessing-your-risks
 
@@ -46,3 +47,6 @@ Provide one or two sentences for each of these
 5. Monitor the Risks 
 
 Don't worry about feeling like you don't have much content, we are going to look at this problem again once you have more knowledge and you will approach it very differently. 
+
+# Economics of Security
+Plenty to write here... this is wrong. I think. Maybe.
