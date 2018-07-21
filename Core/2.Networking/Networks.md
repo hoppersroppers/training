@@ -1,4 +1,6 @@
-﻿ * Networking
+https://www.bau.edu.jo/UserPortal/UserProfile/PostsAttach/10617_1870_1.pdf﻿ 
+  
+  * Networking
    * layers 
    * ifconfig/ipconfig
    * pin
