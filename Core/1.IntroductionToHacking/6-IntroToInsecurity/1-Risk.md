@@ -49,4 +49,12 @@ Provide one or two sentences for each of these
 Don't worry about feeling like you don't have much content, we are going to look at this problem again once you have more knowledge and you will approach it very differently. 
 
 # Economics of Security
-Plenty to write here... this is wrong. I think. Maybe.
+Plenty to write here... 
+Audit, Compliance, Governance, Awareness, Security. 
+
+https://en.wikipedia.org/wiki/Governance,_risk_management,_and_compliance
+
+https://www.rapid7.com/solutions/compliance/
+https://www.rapid7.com/solutions/compliance/critical-controls/
+
+
