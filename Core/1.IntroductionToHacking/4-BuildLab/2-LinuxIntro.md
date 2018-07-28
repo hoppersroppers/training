@@ -27,6 +27,7 @@ Version Name/Number
 These are called dotfiles, so named because they have a dot in front of their names. This makes them "hidden" files in the Linux directory system. We use them to do random things.
 * search through your history
 14. Make your terminal pretty
+* Install Lynx
 15. Install GIMP and make me a meme
 16. Virtual workspaces: Switch between workspaces and use the tweak tool to do stuff.
 
