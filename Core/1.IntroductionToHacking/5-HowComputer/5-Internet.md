@@ -10,8 +10,11 @@
    * DNS stuff, direct ip 
    
    * What is the path of a website load 
+   
    * How do websites work? 
    * How do web apps work? 
+   * Client side/ server side
+   * Chrome Dev tools
    
    * whois, stuff like that
    * Technical Architecture
@@ -19,7 +22,6 @@
    * Wireshark stuff
    * Internet Hosting providers   
    * Internet Routing providers
-      * routing
   
   * Wayback machine
 	* chrome power user
