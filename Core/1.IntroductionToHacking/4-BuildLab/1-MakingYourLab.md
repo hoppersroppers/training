@@ -21,22 +21,6 @@ Now you need to make this house a home, have fun with it. This is a random smatt
 
 1. Update and Upgrade Everything: 
 What the heck is sudo? sudo https://www.lifewire.com/ubuntu-sudo-2205669
-2. Install Google Chrome
-We've mentioned this before, but we don't explain much. You're going to need this for the tasks ahead!
-3. Install VMWare tools for Ubuntu
-You need this for a lot of critical usability things, and it doesn't come pre-installed. You have most likely already seen prompts telling you to do this. Do it. I'll be honest, this can be kinda difficult sometimes, but you gotta figure your own way through this.
-4. Change Wallpaper
-5. Install Unity Tweak Tool and do something interesting
-6. Some file system navigation scavenger hunt
-7. Use WINE to play Minesweeper: Yes, you can run Windows programs in Linux. It can get weird, but it works.
-8. Install VLC Media Player
-9. Sudo apt-get install tmux/terminator
-10. Install sublime text
-11. Create an alias or two
-12. Create a bashrc
-These are called dotfiles, so named because they have a dot in front of their names. This makes them "hidden" files in the Linux directory system. We use them to do random things.
-13. Create a vimrc
-14. Make your terminal pretty
-15. Install GIMP and make me a meme
-16. Virtual workspaces: Switch between workspaces and use the tweak tool to do stuff.
 
+2. Install VMWare tools for Ubuntu
+You need this for a lot of critical usability things, and it doesn't come pre-installed. You have most likely already seen prompts telling you to do this. Do it. I'll be honest, this can be kinda difficult sometimes, but you gotta figure your own way through this.
