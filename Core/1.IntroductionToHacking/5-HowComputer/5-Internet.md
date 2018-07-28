@@ -10,6 +10,8 @@
    * DNS stuff, direct ip 
    
    * What is the path of a website load 
+   * How do websites work? 
+   * How do web apps work? 
    
    * whois, stuff like that
    * Technical Architecture
