@@ -18,16 +18,11 @@
       * http://www.electronics-tutorials.ws/binary/bin_2.html
       * http://www.asciitohex.com/
 
-* Tying it all together. How do computers work?
-   * Does it make more sense now?
-  
-   
-https://www.usna.edu/Users/cs/wcbrown/courses/si110AY13S/lec/l01/lec.html
-https://www.usna.edu/Users/cs/wcbrown/courses/si110AY13S/lec/l01/hw/hw.pdf
+* Read this https://www.usna.edu/Users/cs/wcbrown/courses/si110AY13S/lec/l01/lec.html
+* Do the HW https://www.usna.edu/Users/cs/wcbrown/courses/si110AY13S/lec/l01/hw/hw.pdf
 
-https://www.usna.edu/Users/cs/wcbrown/courses/si110AY13S/lec/l02/lec.html
-
-https://www.usna.edu/Users/cs/wcbrown/courses/si110AY13S/lec/l02/hw/hw.pdf
+* Read this https://www.usna.edu/Users/cs/wcbrown/courses/si110AY13S/lec/l02/lec.html
+* Do the HW https://www.usna.edu/Users/cs/wcbrown/courses/si110AY13S/lec/l02/hw/hw.pdf
 
 # Hardware Explainer
 * Explain what a motherboard is
@@ -39,3 +34,9 @@ https://www.usna.edu/Users/cs/wcbrown/courses/si110AY13S/lec/l02/hw/hw.pdf
       * Optical
       * Hard
       * Solid State 
+      
+* Graphics Card
+
+
+* What is the name of your computer
+* Go to Device Manager and look at your specs
