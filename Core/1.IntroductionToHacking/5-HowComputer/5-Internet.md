@@ -8,6 +8,9 @@
    * https://web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm
       * all of this stuff
    * DNS stuff, direct ip 
+   
+   * What is the path of a website load 
+   
    * whois, stuff like that
    * Technical Architecture
    * Information Architecture
