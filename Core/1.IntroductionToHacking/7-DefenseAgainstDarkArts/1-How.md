@@ -2,7 +2,9 @@ If the malware is any good, you won't know.
 Constant scans are helpful, they will notice it for you.
 
 
-* https://www.microsoft.com/en-us/safety/pc-security/windows-defender.aspx * Anti-Virus * MalwareBytes
+* https://www.microsoft.com/en-us/safety/pc-security/windows-defender.aspx 
+* Anti-Virus
+* MalwareBytes
 
 Risks of using public workstations 
 
