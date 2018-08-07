@@ -5,13 +5,13 @@ Read this: www.lockheedmartin.com/content/dam/lockheed/data/corporate/documents/
 Make sure you know the different layers of the killchain. 
 Write a sentence describing each and provide three examples. If you can't think of examples, google for em. Don't worry too much about being right.
 
-* Recon
-* Weaponization
-* Delivery
-* Exploitation
-* Installation
-* Command and Control
-* Actions on Objectives
+1. Recon
+2. Weaponization
+3. Delivery
+4. Exploitation
+5. Installation
+6. Command and Control
+7. Actions on Objectives
 
 One of the most common arguments against the killchain is that "Actions on Objectives" is too vague. For one, all of the other steps of the killchain can occur as an action on objective if the attacker uses it to attack something else, which is known as pivoting. But there are many other "post-exploitation" objectives of an attacker, which range from installing backdoors to bricking the device. 
 
