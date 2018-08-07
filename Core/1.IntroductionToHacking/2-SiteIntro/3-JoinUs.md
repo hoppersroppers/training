@@ -1,4 +1,4 @@
-#Join Us!
+# Join Us!
 ## Slack
 Instant group messaging has been a cultural staple of the internet community since its inception, as it is truly one of the most important functions that global interconnectedness can serve. In the beginning there was email, then bulletin boards systems (BBS), then Internet Relay Chat (IRC). Finally, there was Slack.
 
