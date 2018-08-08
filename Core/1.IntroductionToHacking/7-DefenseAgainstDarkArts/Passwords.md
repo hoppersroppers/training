@@ -59,7 +59,11 @@ Passwords are hard, and losing your primary email can pretty much stop your life
       
  # You Got Phished For Your Password
  
+ # Someone else got popped
  
+ SIGN UP for havIbeenpwned
+
+
    # Default Passwords
    
    On your boxen, IOT, server setups, KALI
