@@ -41,6 +41,15 @@ Someone found you IRL!
 		     * http://www.oss.net/dynamaster/file_archive/100102/0a947a77d762061cc87ec541c2d2dcc7/2010-01-02%20Dulles%20on%20Tradecraft%20via%20Srodes.pdf
 		 * Moscow Rules  
 		     * https://www.spymuseum.org/exhibition-experiences/online-exhibits/argo-exposed/moscow-rules/
+# Securing your Life
+
+Download Signal: +19172571382
+Get Jabber/XMPP: lorenzofb@jabber.ccc.de
+Get Wire: lorenzofb
+Get Ricochet: ricochet:p5mbxsckf3qbmobc
+
+Keybase
+Send a PGP email
 
   	   * **Use a Burner email**
        * **Burner phone number**
