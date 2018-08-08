@@ -46,3 +46,43 @@ Someone found you IRL!
        * **Burner phone number**
    * **Create a fake person**
                * **Create a fake facebook, twitter, linkedin, ...**
+	      
+# Physical attacks
+* Physical security
+	* "Evil Maid"
+	    * USB Malware
+	       * Stuxnet spread
+	       * Rubberducky
+	       * BashBunny
+	    * if someone has hands on keyboard, they own that computer
+	    * "Rubber hose cryptography"
+		* https://en.wikipedia.org/wiki/Rubber-hose_cryptanalysis
+		* https://xkcd.com/538/
+		 
+   * Full Disk Encryption
+          * OS 
+	  * Truecrypt style
+	  
+	  
+   * **Do a linux password reset **
+   * **Do a windows stickykeys reset **
+  
+  * What is BIOS? Why do you encrypt it?
+
+   * Rubber Hose
+        * https://www.schneier.com/blog/archives/2009/07/laptop_security.html
+	* Truecrypt
+	   * https://en.wikipedia.org/wiki/TrueCrypt
+	      * plausible deniability
+	      * cold boot attack
+	     
+	     * Black Bag Cryptanalysis
+	     https://en.wikipedia.org/wiki/Black-bag_cryptanalysis
+	      
+	* Legal issues surrounding forced password disclosure
+	
+	* Biometrics
+	   * Fingerprint unlocks
+	   * retina/voice/face
+	   * Legal stuff
+         
