@@ -57,6 +57,9 @@ Passwords are hard, and losing your primary email can pretty much stop your life
               * In 2-3 sentences, explain what salting does and why it is important.
            * Combining the ideas of salting and hashing, now learn how you are going to make secure security questions! If we take a hashing algorithm, like MD5, and a unique salt, such as “salty”, we can use the function MD5(_answer_to_question_ + “salty17”). This will create an impossible to guess security question that you can easily use anywhere.
       
+ # You Got Phished For Your Password
+ 
+ 
    # Default Passwords
    
    On your boxen, IOT, server setups, KALI
