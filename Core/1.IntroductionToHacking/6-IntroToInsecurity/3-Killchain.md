@@ -53,3 +53,10 @@ Tasks:
 3. What is a threat group/activity group? (You may need Google)
 4. Write a few sentences on how you can use these pieces of information to build an identity for an activity group.
 5. Write about what the benefits are of creating a named threat/activity group
+
+# APT 1 aka Unit 61398
+
+You may have heard of Advanced Persistent Threats (APT) by now, but here is the report that got it all started. It was the first report that publically named and provided TTPs and Indicators of Compromise (IOC), as well as identities of a threat group. Now everyone does it, but this is what got the ball rolling in threat intelligence.
+
+Read this: https://www.fireeye.com/content/dam/fireeye-www/services/pdfs/mandiant-apt1-report.pdf
+
