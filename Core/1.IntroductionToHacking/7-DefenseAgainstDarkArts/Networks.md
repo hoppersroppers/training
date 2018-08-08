@@ -81,3 +81,29 @@ https://www.google.com/safetycenter/everyone/start/safe-networks/
 Nation state ownage
 Threat modeling
 
+
+# You weren't updated
+
+* Modern systems realize that you are more safe if updates occur automatically. There are very very few situations in which you cannot have auto update turned on. 99% of those situations involve Windows boxes running legacy critical systems. If you don't have auto update turned on... you need to fix that.
+* Turn it on for everything
+* Android doesnt update well, apple does it very well. 
+
+	
+
+		 
+# You got 0'Dayd
+        * Guess what... you're not important enough for that. See: threat modeling
+* Here are some prices
+https://www.wired.com/2015/11/heres-a-spy-firms-price-list-for-secret-hacker-techniques/
+
+https://www.zerodium.com/program.html
+
+set flash click to play
+Adobe Reader DC
+Adobe Reader is actually pretty safe if you have the full suite of security settings turned on. In the case of Adobe Reader DC, there's just one setting you need to change:
+
+Edit > Preferences > Security (Enhanced) > Protected View > Files from potentially unsafe locations
+
+Remember thegrugq, from the opsec lessons? 
+
+https://www.forbes.com/sites/andygreenberg/2012/03/23/shopping-for-zero-days-an-price-list-for-hackers-secret-software-exploits/#4c1e46232660
