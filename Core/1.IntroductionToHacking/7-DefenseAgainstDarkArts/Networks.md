@@ -12,6 +12,27 @@ This next section skips over the technical details of network ownage (while givi
 
 Recommended Listening: The Hostile Gospel, Talib Kweli
 
+# They got your IP address
+https://ssd.eff.org/en/module/how-circumvent-online-censorship
+
+* Someone saw your IP address!!!
+   * visiting a website... whats my IP
+       * **LOIC**
+   * GeoIP
+   * proxy
+          * We made one for you
+      * port forward
+      * proxychains! 
+   * **IP from pic viewer **
+      * https://iplogger.org/
+   * **Honeydocs**
+      * https://github.com/threatstack/honeyfiles
+  	   * Use a VPN
+      * We made one for you
+     
+       * TOR
+       * https://danielmiessler.com/study/internet-deep-dark-web	
+
 ## Encryption
 
 * Encoding
