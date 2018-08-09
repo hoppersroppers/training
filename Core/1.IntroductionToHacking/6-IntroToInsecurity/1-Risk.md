@@ -58,5 +58,7 @@ https://www.rapid7.com/solutions/compliance/critical-controls/
 
 https://en.wikipedia.org/wiki/Cyber_security_standards
 
+HIPAA, PCI-DSS, FISMA
+
 
 
