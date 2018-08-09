@@ -1,0 +1,1 @@
+# How Computer requires a reasonable amount of work. With that said, it is the least important part of this non-technical introduction, so I might just make it more general. Either way, it needs work, and you should work on it if you are reading this.
