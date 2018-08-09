@@ -1,4 +1,4 @@
-# 1. Risk
+Risk
 ## Introduction
 Read this: https://www.usna.edu/CyberDept/sy110/lec/risk/lec.html
 
@@ -35,20 +35,21 @@ One important note is that you might not have anything worth a targeted attack p
 
 
 ## Risk Assement
-NIST IS RISK. 
-You probably don't know much right now technically, but technical knowledge is meant to inform your decision making processes, and you can usually get along fairly well on common sense and procedure. Submit a risk assessment for your usna.edu email account following the NIST risk assessment process. 
+A huge part of this training is providing you with the mental models required to think about security. By providing the general framework, you can fill in the gaps, or at least start working towards filling the gaps. But sometimes, mental models just don't cut it. You need something on paper, written in blood, that will help you do what you need to do in order to be successful. Risk assesment models give organizations a way to identify problems and address them in a quantitiative and structured manner. There are a ton of them out in the wild, but the most important one for most people is NIST (National Institute of Standards and Technology). This is the general framework that all DoD and .gov sites adhere to. There are other specific frameworks like ISO27001, CIS Critical Security Controls, HIPAA (health data), PCI DSS (credit cards and banking), and countless others but those don't matter much to you other than knowing they exist. A good knowledge of NIST will get you most of the way there. 
 
-Provide one or two sentences for each of these:
-1. Identify Risks
-2. Analyze the Risks
-3. Prioritize the Risks
-4. Address the Risks
-5. Monitor the Risks 
+Tasks:
+1. 
+2. Read this: https://www.nist.gov/cyberframework/online-learning/components-framework
+3. Read this: https://www.nist.gov/cyberframework/online-learning/five-functions
+3. Write a few sentences about each of the different function categories. 
+4. What does "Outcome Driven" mean?
+4. Read this: https://www.nist.gov/cyberframework/online-learning/uses-and-benefits-framework
+5. Write a few sentences on how to use the framework to drive decision making.
 
-Don't worry about feeling like you don't have much content, we are going to look at this problem again once you have more knowledge and you will approach it very differently. 
+You probably don't know much right now technically, but technical knowledge is meant to inform your decision making processes, and you can usually get along fairly well on a good mix of common sense and procedure. Remember, frameworks are just frameworks, and are only as good as the person doing the assesment.
 
 # Economics of Security
-Plenty to write here... 
+Plenty to write here... not very necessary. Probably will delete.
 Audit, Compliance, Governance, Awareness, Security. 
 
 https://en.wikipedia.org/wiki/Governance,_risk_management,_and_compliance
@@ -56,9 +57,7 @@ https://en.wikipedia.org/wiki/Governance,_risk_management,_and_compliance
 https://www.rapid7.com/solutions/compliance/
 https://www.rapid7.com/solutions/compliance/critical-controls/
 
-https://en.wikipedia.org/wiki/Cyber_security_standards
-
-HIPAA, PCI-DSS, FISMA
+https://www.cisecurity.org/wp-content/uploads/2017/03/Poster_Winter2016_CSCs.pdf
 
 
 
