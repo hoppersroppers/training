@@ -19,11 +19,11 @@ I could give you more information on what to do for this, but there are a ton of
 ## Make it Yours
 Now you need to make this house a home, have fun with it. This is a random smattering of things that I highly recommend you do, both for quality of life and for getting accustomed to how things work.
 
-1. Update and Upgrade Everything: Google how to do all this.
-What the heck is sudo? sudo https://www.lifewire.com/ubuntu-sudo-2205669
-2. run Sudo apt get update
-3. What does this do? 
-4. Sudo apt get upgrade
-5. What does this do?
-6. Install VMWare tools for Ubuntu.
+Read this: https://www.codelitt.com/blog/my-first-10-minutes-on-a-server-primer-for-securing-ubuntu/
+
+Tasks:
+1. What the heck is sudo? sudo https://www.lifewire.com/ubuntu-sudo-2205669
+2. Do everything on the First 10 Minutes Guide. It won't take you 10 minutes. You will have to use other resources than just this post.
+3. For each step, write why you are doing it, what the critical security controls being added are, and any issues you had doing it. This will require some google.
+4. Install VMWare tools for Ubuntu.
 You need this for a lot of critical usability things, and it doesn't come pre-installed. You have most likely already seen prompts telling you to do this. Do it. I'll be honest, this can be kinda difficult sometimes, but you gotta figure your own way through this.
