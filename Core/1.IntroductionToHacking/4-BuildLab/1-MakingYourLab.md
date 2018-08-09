@@ -14,13 +14,16 @@ Install VMware http://www.vmware.com/go/tryplayerpro-win-64
 
 Install Ubuntu https://www.ubuntu.com/download/desktop
 
-I could give you more information on what to do for this, but there are a ton of tutorials and youtube videos out there. Should be an easy google, and the information doesn't change. Let us know if you have any problems, but I recommend going step by step through a tutorial.
+I could give you more information on what to do for this, but there are a ton of tutorials and youtube videos out there. Should be an easy google, and the information doesn't change too much. Let us know if you have any problems, but I recommend going step by step through a tutorial. 
 
 ## Make it Yours
 Now you need to make this house a home, have fun with it. This is a random smattering of things that I highly recommend you do, both for quality of life and for getting accustomed to how things work.
 
-1. Update and Upgrade Everything: 
+1. Update and Upgrade Everything: Google how to do all this.
 What the heck is sudo? sudo https://www.lifewire.com/ubuntu-sudo-2205669
-
-2. Install VMWare tools for Ubuntu
+2. run Sudo apt get update
+3. What does this do? 
+4. Sudo apt get upgrade
+5. What does this do?
+6. Install VMWare tools for Ubuntu.
 You need this for a lot of critical usability things, and it doesn't come pre-installed. You have most likely already seen prompts telling you to do this. Do it. I'll be honest, this can be kinda difficult sometimes, but you gotta figure your own way through this.
