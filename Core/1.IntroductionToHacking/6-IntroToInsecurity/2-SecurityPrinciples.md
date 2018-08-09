@@ -1,11 +1,16 @@
 # Security Principles
 # CIANA 
-Once again, I really like the plebe cyber version of this.Read this: https://www.usna.edu/CyberDept/sy110/lec/pillarsCybSec/lec.htmlCIANA is a very important fundamental concept, make sure that you know it,Task: For each pillar, submit the word, the definition, and a way that it applies to your email account.
+Once again, I really like the plebe cyber version of this. Read this: https://www.usna.edu/CyberDept/sy110/lec/pillarsCybSec/lec.html
+
+CIANA is a very important fundamental concept, make sure that you know it.
+
+Task: For each pillar, submit the word, the definition, and a way that it applies to your email account.
 
 
 ## Saltzer and Shroeder 
 
 Read Part A of this: http://web.mit.edu/Saltzer/www/publications/protection/Basic.html
+
 (Not B, it's super boring.)
 You're going to see these guy's names a lot, the paper where they introduced these ideas is widely regarded as the most cited paper in security.
 
@@ -38,5 +43,5 @@ If you dont understand what any the laws mean, try to google around to figure it
 https://docs.google.com/document/d/15c1uUdBtVXqfzu88zo5kMvD7udgdedGEPHgHPPhbymo/edit
 
 This might get turned into its own section. I wrote it myself, but I'm good. 
-
+Read it, know the things contained, use it to not sound like an idiot if you ever talk about cyber doctrine/policy.
 
