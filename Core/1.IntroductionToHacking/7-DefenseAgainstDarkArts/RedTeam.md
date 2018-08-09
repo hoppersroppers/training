@@ -1,3 +1,5 @@
+# IN PROGRESS, ADD WHATEVER YOU WANT
+
 # Red Team
 
 What is a red team?
@@ -28,11 +30,13 @@ Tasks:
 1. Make a HackerOne Account
 2. Make a BugCrowd Account
 
-Resources:
+Resources: OWASP 
 Websites and Webapps
  "The Web-Application Hackers Handbook" cover that book, practice against any of the many vulnerable meant to be hacked web-apps out there (Damn Vulnerable Web App, OWASP Mutillidae 2, HackThisSite, HellboundHackers, Enigma-Group, HackThis.co.uk, etc, etc)
 Practice: 
 #### Penetration Tester 
+PTES
+OWASP
 ##### Web Dude
 Description:
 Much like the Vulnerability Researcher aka bug bounty heros, web dudes break web sites and web apps, but with the ultimate goal of pivoting to the main network after.
@@ -50,7 +54,7 @@ Tasks:
 Resources:
 Practice:
 ##### Physical Penetration Tester
-Description: Break into things, lie to people. Learn how to pick locks, get into places, and talk good. 
+Description: Break into things, lie to people. Learn how to pick locks, get into places, and talk good. Proxmark. 
 Tasks:
 Resources:
 Practice:
