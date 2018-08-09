@@ -1,4 +1,3 @@
-Risk
 ## Introduction
 Read this: https://www.usna.edu/CyberDept/sy110/lec/risk/lec.html
 
