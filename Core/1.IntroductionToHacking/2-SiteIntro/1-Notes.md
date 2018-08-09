@@ -1,15 +1,18 @@
 # Site Introduction
 ## Why Security?
 
-I fell in love with security a long time ago, and while the motivations behind my passion has changed, I love it now because the security community is the shield of the modern age. Without the constant battle on the frontlines between the people who want to see technology used for good and the people who want to use it for their own gain, or worse, to limit the rights and freedoms of others, the progress that occurs in the real world because of technology would be dramatically slowed. We allow trust in technology, which leads to adoption, which leads to progress. 
+Computer security is the shield of the modern age. Without the constant battle on the frontlines between the people who want to see technology used for good and the people who want to use it for their own gain, or worse, to limit the rights and freedoms of others, the progress that occurs in the real world because of technology would be dramatically slowed. Security allows trust in technology, which leads to adoption, which leads to progress. The more people able to help out with that fight, the faster we can move as a society, and less things will get broken on the way. That’s why this site exists, and hopefully, if you’re here for the right reasons, you’ll be able to jump into the fight with the tools you need to succeed. 
 
-There are countless things you can do with technology to change the world: Teach other people. Build tools and tech able to solve real world problems. Create social movements. Empower everyone. I want to do all of those things. I probably will someday. But I want to start by helping other people learn to use their superpower, and help steer people in the right direction. That’s why this site exists, and hopefully, if you’re here for the right reasons, you’ll be able to jump into the fight with the tools you need to succeed. 
+This site is here to provide a framework to walk you through ...
+Surrounding this site is a community to help you and provide guidance...
 
-Something something: provide a structured framework, positive guidance, community. 
+Good luck.
 
 # Lessons From Grace Hopper
 ## Introduction
-Our team has gone by many names, but one of our favorite's is Hopper's Roppers.<br>You may have heard of Grace Hopper before because the Cyber Center is going to be named after her.&nbsp;<br><p>&nbsp;&nbsp;</p><p>To learn more about her, read this:&nbsp;<a href="http://www.biography##.com/people/grace-hopper-21406809">http://www.biography.com/people/grace-hopper-21406809</a>&nbsp;</p>
+Our team has gone by many names, but one of our favorite's is Hopper's Roppers. You may have heard of Grace Hopper before because the Cyber Center is going to be named after her.
+
+To learn more about her, read this: http://www.biography.com/people/grace-hopper-21406809
 
 ## Compiler
 Google what a compiler is and write two or three sentences on why that was so important for the advancement of computing.
@@ -51,7 +54,7 @@ This curriculum was created based on inputs from members of the great classes of
 
 After every section, we are going to ask for feedback. What did you like, not like, want changed, any thoughts. Just stream of consciousness it.
 
-We can only get better if you tell us what you want changed, and you won't hurt our feelings. 
+We can only get better if you tell us what you want changed, and you won't hurt our feelings. Provide feedback over instant message, email, whatever. We just want you to learn and then give us feedback so we can learn.
 
 ## Support
 Our site provides real time support through instant messaging, or you can hit us in Slack or on the forums. Whatever works, we are here for you.
