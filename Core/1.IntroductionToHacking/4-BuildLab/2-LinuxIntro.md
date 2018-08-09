@@ -9,16 +9,16 @@ Tasks:
 
 
 # Make it Yours
-4. Change Wallpaper=
+1. Change Wallpaper=
 2. Install Google Chrome
-5. Install Unity Tweak Tool and do something interesting
-7. Use WINE to play Minesweeper: Yes, you can run Windows programs in Linux. It can get weird, but it works.
-8. Install VLC Media Player
-15. Install GIMP and make me a meme
-16. Virtual workspaces: Switch between workspaces and use the tweak tool to do stuff.
-9. Sudo apt-get install tmux
-* https://fedoramagazine.org/use-tmux-more-powerful-terminal/
-14. Make your terminal pretty by installing Lynx
+3. Install Unity Tweak Tool and do something interesting
+4. Use WINE to play Minesweeper: Yes, you can run Windows programs in Linux. It can get weird, but it works.
+5. Install VLC Media Player
+6. Install GIMP and make me a meme
+7. Virtual workspaces: Switch between workspaces and use the tweak tool to do stuff.
+8. Sudo apt-get install tmux
+9. Do this. Keep doing this. https://fedoramagazine.org/use-tmux-more-powerful-terminal/
+10. Make your terminal pretty by installing Lynx
 
 
 # Learn How to Whip It 
@@ -38,8 +38,8 @@ Tasks:
 
 12. Complete Code Academy Command Line https://www.codecademy.com/learn/learn-the-command-line
 
-11. Create an alias or two
-12. Create a bashrc
-These are called dotfiles, so named because they have a dot in front of their names. This makes them "hidden" files in the Linux directory system. We use them to do random things.
+13. Create an alias or two
+14. Create a bashrc
+These are called dotfiles, so named because they have a dot in front of their names. This makes them "hidden" files in the Linux directory system. We use them to save configurations.
 13. search through your history
 
