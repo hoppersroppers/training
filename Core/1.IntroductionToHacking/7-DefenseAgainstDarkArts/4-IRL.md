@@ -71,15 +71,23 @@ Alright, now that you know that you need FDE and Secure Boot, lets go into vario
 	* Cold Boot attack
 2. Breaking in to your hotel room and keylogging, then breaking back in later and stealing
         * https://en.wikipedia.org/wiki/Black-bag_cryptanalysis
-	* infect boot/ keylog/ chips 
-3. Compromised hardware to a turned on computer
+	* infect boot/ keylog/ 
+3. Malicious hardware to a turned on computer
 	* USB Malware
 	       * BAdusb
 	       * Rubberducky
 	       * BashBunny
 	* FIREWIRE
 	* Turn off your computer
-4. Taking you and your computer and forcing you to give up password
+
+4. Malicious hardware to turned off compter
+        * chips 
+	* NSA Playset: http://www.nsaplayset.org/chuckwagon
+	
+4. Electronic Emissions
+        * Read this: https://en.wikipedia.org/wiki/Van_Eck_phreaking
+	
+5. Taking you and your computer and forcing you to give up password
 	* "Rubber hose cryptography"
 		* https://en.wikipedia.org/wiki/Rubber-hose_cryptanalysis
 		* https://xkcd.com/538/
