@@ -52,9 +52,14 @@ This curriculum was created based on inputs from members of the great classes of
 
 ## Feedback
 
-After every section, we are going to ask for feedback. What did you like, not like, want changed, any thoughts. Just stream of consciousness it.
+After every section, we are going to ask for feedback. What did you like, not like, want changed, any thoughts. Just stream of consciousness it. 
 
-We can only get better if you tell us what you want changed, and you won't hurt our feelings. Provide feedback over instant message, email, whatever. We just want you to learn and then give us feedback so we can learn.
+We can only get better if you tell us what you want changed, and you won't hurt our feelings. You can provide feedback over instant message on Slack, email to d.m.devey@gmail.com, or just to people in person. We just want you to learn and then give us feedback so we can learn.
+
+The primary way we would like to get non-anonymous feedback is through Github Issues. For each section, there will be a button at the top and bottom with pre-populated fields if you click it. Provide any feedback you want through this mechanism, more details are appreciated.
+
+[Give us feedback please!](https://github.com/SquidWorksDojo/training/issues/new?title=SiteIntro&body=Please%20provide%20as%20much%20detail%20as%20you%20can%20to%20make%20this%20course%20better!&labels=i2h)
+
 
 ## Support
 Our site provides real time support through instant messaging, or you can hit us in Slack or on the forums. Whatever works, we are here for you.
