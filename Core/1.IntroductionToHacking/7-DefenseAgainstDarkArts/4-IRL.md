@@ -1,6 +1,7 @@
 # OPSEC is king
-Someone found you IRL!       
-  
+
+If someone has found you in real life, the game is over. There are all sorts of great technical approaches to protecting yourself we have gone over already, but technology only goes so far. There is always a log created digitally and if a motivated attacker wants you, they will get you technically. OPSEC is what keeps you off the radar, and if you are going to be on the radar, gives them a cold trail and a fake account to chase into the ground. If you follow these rules, you will do much better towards not getting arrested. 
+
 ## What is OPSEC?
 
 Tasks:
@@ -29,7 +30,7 @@ Tasks:
 If you have the time, these are all highly recommended:
 * Hacker OPSEC talk: https://www.youtube.com/watch?v=9XaYdCdwiWU
 * Dulles' 73 Rules: http://www.oss.net/dynamaster/file_archive/100102/0a947a77d762061cc87ec541c2d2dcc7/2010-01-02%20Dulles%20on%20Tradecraft%20via%20Srodes.pdf
-* Moscow Rules: ttps://www.spymuseum.org/exhibition-experiences/online-exhibits/argo-exposed/moscow-rules/
+* Moscow Rules: https://en.wikipedia.org/wiki/The_Moscow_rules
 
 ### Opsec Scavenger Hunt Do the OPSEC scavenger hunt
 * "_name_ "/email/username
@@ -40,56 +41,59 @@ If you have the time, these are all highly recommended:
 		  
 # Securing your Life
 
-Download Signal: +19172571382
-Get Jabber/XMPP: lorenzofb@jabber.ccc.de
-Get Wire: lorenzofb
-Get Ricochet: ricochet:p5mbxsckf3qbmobc
-Get Keybase:
-Send a PGP email the easy way
-Use a Burner email
-Burner phone number
-
-**Create a fake person**
-**Create a fake facebook, twitter, linkedin, ...**
+Tasks: 
+* Get Keybase
+* Send a PGP email
+* Download Signal
+* Get Jabber/XMPP
+* Get Wire
+* Get Richochet
+* Look at this: https://privacy.com/
+* Create a fake person
+   * Get a burner email 
+   * Get a burner phone number
+   * fake facebook
+   * twitter 
+   * linkedin
 	      
 # Physical attacks
 
+A physical attack on your computer, called an "Evil Maid", is a classic attack and near impossible to defeat. If someone has hands on keyboard after stealing your device, they own that computer unless you have full disk encryption. If you have full disk encryption and someone modifies the computer, then you use it, then you are screwed. If someone has you and the computer, you are screwed. Long story short, it is better for them to not know you are worth attacking, thus, OPSEC. 
 
-	* "Evil Maid"
-	    * USB Malware
-	       * Stuxnet spread
+Tasks:
+* Read this: http://images.secure.f-secure.com/Web/FSecure/%7B319382b2-a040-4c88-bd94-20eed01bf22f%7D_F-Secure-Evil-Maid-Guide.pdf
+* Create more tasks
+
+Alright, now that you know that you need FDE and Secure Boot, lets go into various physical attacks on a computer and defenses against them.
+
+1. Tackling you off of the computer while logged in
+        * Quick shutdown
+	* Cold Boot attack
+2. Breaking in to your hotel room and keylogging, then breaking back in later and stealing
+        * https://en.wikipedia.org/wiki/Black-bag_cryptanalysis
+	* infect boot/ keylog/ chips 
+3. Compromised hardware to a turned on computer
+	* USB Malware
+	       * BAdusb
 	       * Rubberducky
 	       * BashBunny
-	    * if someone has hands on keyboard, they own that computer unless you have full disk encryption.
-	    * If someone has you and the computer, you are screwed. 
-	    * "Rubber hose cryptography"
+	* FIREWIRE
+	* Turn off your computer
+4. Taking you and your computer and forcing you to give up password
+	* "Rubber hose cryptography"
 		* https://en.wikipedia.org/wiki/Rubber-hose_cryptanalysis
 		* https://xkcd.com/538/
-		 
-   * Full Disk Encryption
-          * OS 
-	  * Truecrypt style
-	  
-	  
-   * **Do a linux password reset **
-   * **Do a windows stickykeys reset **
-  
-  * What is BIOS? Why do you encrypt it?
-
-   * Rubber Hose
-        * https://www.schneier.com/blog/archives/2009/07/laptop_security.html
-	* Truecrypt
-	   * https://en.wikipedia.org/wiki/TrueCrypt
+        * https://en.wikipedia.org/wiki/TrueCrypt
 	      * plausible deniability
-	      * cold boot attack
-	     
-	     * Black Bag Cryptanalysis
-	     https://en.wikipedia.org/wiki/Black-bag_cryptanalysis
-	      
-	* Legal issues surrounding forced password disclosure
-	
+	    * Legal issues surrounding forced password disclosur
 	* Biometrics
 	   * Fingerprint unlocks
 	   * retina/voice/face
-	   * Legal stuff
+	   
+Tasks:
+* Do a linux password reset 
+* Do a windows stickykeys reset
+* https://securityonline.info/evilabigail-automated-linux-evil-maid-attack/
+  
+	
          
