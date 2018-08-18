@@ -77,31 +77,14 @@ Remember honey tokens? Or just malware. That calls home real nice. There's also 
 
 ## Encryption
 
-* Encoding
- * Encryption
-    * Symetrical
-	* https://www.usna.edu/CyberDept/sy110/lec/cryptSymmEnc/lec.html
-    * Asymetrical
-	 https://www.usna.edu/CyberDept/sy110/lec/cryptAsymmEnc/lec.html
-	 How does encryption work? (It takes a long fucking time)
 
-
- * Hashing
-    * https://www.usna.edu/CyberDept/sy110/lec/cryptHashPswd/lec.html
-    * https://xkcd.com/936/
-    * L0phtcrack tangent
-	* http://www.washingtonpost.com/sf/business/2015/06/22/net-of-insecurity-part-3/?utm_term=.ea6927af0bd7
-	* en.wikipedia.org/wiki/L0pht
-	* Responsible Hacking
-
- * Password Cracking 
-   * https://arstechnica.com/information-technology/2013/03/how-i-became-a-password-cracker/
-   * crack Local static rar
-   * use google to crack a hash
-   * crack Remote w/ hydra
-   * Talk about rocku	and linkedin and all sorts of others
-   * TroyHunt and password database thing project
-So we know the attacker is trying to read the message... what is the best way to stop that?
+Tasks:
+* Read this: https://www.usna.edu/CyberDept/sy110/lec/cryptSymmEnc/lec.html
+* What is symetric encryption?
+* Do the HW: https://www.usna.edu/CyberDept/sy110/lec/cryptSymmEnc/hw/hw.pdf
+* Read this: https://www.usna.edu/CyberDept/sy110/lec/cryptAsymmEnc/lec.html
+* What is assymetric encryption?
+* Do the HW: https://www.usna.edu/CyberDept/sy110/lec/cryptAsymmEnc/hw/hw.pdf
 
 Read this: https://ssd.eff.org/en/module/what-encryption
 
@@ -109,48 +92,40 @@ Random note, that link goes to the Electronic Frontier Foundation's website, the
 
 Now here is a slightly more technical primer on how real world cryptography works.
 
-https://ssd.eff.org/en/module/introduction-public-key-cryptography-and-pgp
+Read this: https://ssd.eff.org/en/module/introduction-public-key-cryptography-and-pgp
+
+Alright, now that you have an idea of what encryption is, read this https://danielmiessler.com/study/encoding-encryption-hashing-obfuscation/ and explain the differences between the ideas explained.
 
 ## Man in the Middle
 What is a man in the middle attack? You may have heard this before, and you'll hear it plenty more as it is the easiest and most common network attack.
 
 The general idea is that if Computer A tries to communicate with Computer C, but their conversation transits over Computer B, B is able to read and even alter the messages being sent. This can allow Computer B to impersonate both people to each other and have them each receive a totally incorrect message while never knowing that they are being listened in on. This was not a huge problem back in the '70s on ARPANET, but now, when there are dozens of hops between your computer and whatever website you visit, any of those could be intercepting your traffic (and mostly likely multiple are).
 
-Once again, the academy's piece on this is pretty damn good. Of course, we'll be going into this deeper, but it's a good speed intro.
+Once again, the academy's piece on this is pretty damn good. Of course, we'll be going into this deeper later and you will do it yourself, but it's a good speed intro.
 
 https://www.usna.edu/CyberDept/sy110/lec/cryptSymmEnc/lec.html
 
 Questions:
-
-Of CIANA, what were the pillars that can be attacked if an adversary is able to do a man in the middle?
-
-In the Computer A,B and C scenario, what are the human names which match up to them?
-
-This one requires a google, but who is Mallory, and what makes her different from Eve?
+* Of CIANA, what were the pillars that can be attacked if an adversary is able to do a man in the middle?
+* In the Computer A,B and C scenario, what are the human names which match up to them?
+* This one requires a google, but who is Mallory, and what makes her different from Eve?
+* How does your browser protect you from MITM attacks? This will require a google.
 
 ## How to Be Safe
-VPN/proxy/tor
+* Use a VPN/proxy/tor
+* Use https everywhere!
+* ublock origin should alreayd be on
+* Browser safety extensions!
+* Basic wifi safety
+    * Use a VPN!* Open WiFi vs. secure WiFi
+    * http://fieldguide.gizmodo.com/how-to-stay-safe-on-public-wifi-1779464400
+    * https://www.google.com/safetycenter/everyone/start/safe-networks/
 
-https everywhere!
-ublock origin should alreayd be on
-Browser safety extensions!
-
-
-Basic wifi safety
-Use a VPN!* Open WiFi vs. secure WiFi
-http://fieldguide.gizmodo.com/how-to-stay-safe-on-public-wifi-1779464400
-https://www.google.com/safetycenter/everyone/start/safe-networks/
-Nation state ownage
-Threat modeling
-
-
-# You weren't updated
+# You weren't updated or the patch didn't come out fast enough
 
 * Modern systems realize that you are more safe if updates occur automatically. There are very very few situations in which you cannot have auto update turned on. 99% of those situations involve Windows boxes running legacy critical systems. If you don't have auto update turned on... you need to fix that.
 * Turn it on for everything
 * Android doesnt update well, apple does it very well. 
-
-	
 
 		 
 # You got 0'Dayd
