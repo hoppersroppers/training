@@ -6,59 +6,72 @@ Any network connected to the internet must be considered hostile. Most intranets
 
 But what does "hostile" mean? In this case, the general idea is that if computer A wishes to communicate with computer C, that means that they need to send all of their traffic through computer B. Gentleman's agreements not to look at that traffic might have worked on Arpanet, but not anymore.
 
-From Internet Service Providers (ISPs) working with governments to snoop on all your traffic, to deep sea submarine cable intercepts to sketchy free wifi hotspots, your internet browsing is recorded by a lot of people.
+From Internet Service Providers (ISPs) working with governments to snoop on all your traffic, to deep sea submarine cable intercepts to sketchy free wifi hotspots, your internet browsing is recorded by a lot of people. And when I mean, a lot of people, I mean literally every single hop on your way across the internet (remember traceroute?) will have a complete log of your connections. They might not have the content if you have encrypted your traffic, but they will have records of the date/time the request was made, from who, and to where. This is accesssible to anyone with access to the logs, whether they own it, pwned it, or have a court order. Your IP address is likely shared, but if logs are kept all the way down, and they likely do exist, anything can be tracked down to you.
 
 This next section skips over the technical details of network ownage (while giving you plenty to research on your own time), and focuses on the principles that can protect you and specific steps you can take to protect yourself.
 
 Recommended Listening: The Hostile Gospel, Talib Kweli
 
 # They got your IP address
-https://ssd.eff.org/en/module/how-circumvent-online-censorship
 
-* Someone saw your IP address!!!
-   * visiting a website... whats my IP
-       * **LOIC**
+First, let's get into threat modeling... If you are doing something so 'fun' that if someone was able to provably demonstrate that you were the one behind the keyboard at the time you would go to jail or worse, this is the most important of all the sections. But you hopefully don't fall into this category, and more likely are worried about online censorship, aka web content filters. That's how I started. 
+
+So while we mostly care about circumventing censorship, we will also teach as if you had to care about bad guys getting your IP address. 
+It's a good thing to know.
+
+## Don't Give Out Your IP
+ 
+ If you make a request to a website, you have given them your IP address. This request can take any form, from a visiting a link, viewing an image hosted there, or being redirected through a short link. You can also be tricked into opening a file that sends a request out to the internet, running a program which profiles your computer and sends out a request, or even running a terrible DDOS tool that makes no attempt to hide that it is running on your own network. An attacker can use these requests to identify someone through a 3rd party service. 
+ 
+ Tasks:
+ * Visit http://www.whatsmyip.org/more-info-about-you/
+ * How much information did they know about you?
+ * Use this site to shorten a URL and get your IP https://iplogger.org/shortener/
+ * Use this site to create a hidden image to get your IP. Send it to yourself via email. https://iplogger.org/invisible/. 
+ * Visit: https://canarytokens.org/generate and make various tokens to be used for getting IP addresses and try them on yourself
+    * Word Document 
+    * Custom Image
+    
+## Hiding Your IP and Circumventing Censorship
+   * Port Forwarding, Proxies, Proxychains, VPNs, TOR
+       * https://danielmiessler.com/study/internet-deep-dark-web
+       
+## Circumventing Proxies and Going Right to the Source
+
+Remember honey tokens?
+
+## What Can Be Done with an IP
    * GeoIP
-   * proxy
-          * We made one for you
-      * port forward
-      * proxychains! 
-   * **IP from pic viewer **
-      * https://iplogger.org/
-   * **Honeydocs**
-      * https://github.com/threatstack/honeyfiles
-  	   * Use a VPN
-      * We made one for you
-     
-       * TOR
-       * https://danielmiessler.com/study/internet-deep-dark-web	
+   * Hacking 
+   * Court orders to ISPs
+   
 
 ## Encryption
 
 * Encoding
-			 * Encryption
-			    * Symetrical
-				* https://www.usna.edu/CyberDept/sy110/lec/cryptSymmEnc/lec.html
-			    * Asymetrical
-				 https://www.usna.edu/CyberDept/sy110/lec/cryptAsymmEnc/lec.html
-				 How does encryption work? (It takes a long fucking time)
+ * Encryption
+    * Symetrical
+	* https://www.usna.edu/CyberDept/sy110/lec/cryptSymmEnc/lec.html
+    * Asymetrical
+	 https://www.usna.edu/CyberDept/sy110/lec/cryptAsymmEnc/lec.html
+	 How does encryption work? (It takes a long fucking time)
 
 
-			 * Hashing
-			    * https://www.usna.edu/CyberDept/sy110/lec/cryptHashPswd/lec.html
-			    * https://xkcd.com/936/
-			    * L0phtcrack tangent
-				* http://www.washingtonpost.com/sf/business/2015/06/22/net-of-insecurity-part-3/?utm_term=.ea6927af0bd7
-				* en.wikipedia.org/wiki/L0pht
-				* Responsible Hacking
+ * Hashing
+    * https://www.usna.edu/CyberDept/sy110/lec/cryptHashPswd/lec.html
+    * https://xkcd.com/936/
+    * L0phtcrack tangent
+	* http://www.washingtonpost.com/sf/business/2015/06/22/net-of-insecurity-part-3/?utm_term=.ea6927af0bd7
+	* en.wikipedia.org/wiki/L0pht
+	* Responsible Hacking
 
-			 * Password Cracking 
-			   * https://arstechnica.com/information-technology/2013/03/how-i-became-a-password-cracker/
-			   * crack Local static rar
-			   * use google to crack a hash
-			   * crack Remote w/ hydra
-			   * Talk about rocku	and linkedin and all sorts of others
-			   * TroyHunt and password database thing project
+ * Password Cracking 
+   * https://arstechnica.com/information-technology/2013/03/how-i-became-a-password-cracker/
+   * crack Local static rar
+   * use google to crack a hash
+   * crack Remote w/ hydra
+   * Talk about rocku	and linkedin and all sorts of others
+   * TroyHunt and password database thing project
 So we know the attacker is trying to read the message... what is the best way to stop that?
 
 Read this: https://ssd.eff.org/en/module/what-encryption
