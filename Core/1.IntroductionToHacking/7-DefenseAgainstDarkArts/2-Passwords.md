@@ -26,7 +26,10 @@ Tasks:
 * Relevant XKCD https://www.explainxkcd.com/wiki/index.php/936#Explanation
 * What password has 2^44 bits of entropy?
 * Install LastPass https://lastpass.com/
-* Submit a screenshot of something
+* Make your password for Lastpass something you have never used before Now that everything will be stored in the same location, you need to protect your lastpass with your life. 
+* Make a new gmail account with a good password.
+* Setup your Lastpass to be recoverable through this email account only, not your usual account.
+* Never use this new email for anything else ever again.
 * Complete the LastPass Security challenge
  
 ### Multi Factor Authentication
@@ -37,7 +40,7 @@ Tasks:
 * What does multi factor provide?
 * What does it not provide?
 * Download GoogleAuth 
-* Enable Multifactor on your Lastpass Account
+* Enable Multifactor on your Lastpass Account. Read through the options https://www.lastpass.com/multifactor-authentication and see what the different varieties are.
 * Enable Multifactor on your GitHub
 * From a risk perspective, do you really need multifactor on your github?
 * Remove multifactor from your Github
@@ -58,30 +61,37 @@ Tasks:
 * Submit what the article recommends you do
 
 Luckily, there is a better way. Instead of forcing you to lie, we are going to introduce you to the ideas of hashing and salting.
-       
-### Salting
+### Hashing and Salting
 
 Tasks:
-* Read this: https://thomashunter.name/blog/password-encryption-hashing-salting-explained/
+* Read this: https://crackstation.net/hashing-security.htm. Not all of it, unless you really want to, just enough to answer these questions.
+* In 2-3 sentences explain hashing and why it is important
+* Describe each of the ways passwords are cracked
 * In 2-3 sentences, explain what salting does and why it is important.
 
-Combining the ideas of salting and hashing, now learn how you are going to make secure security questions! If we take a hashing algorithm, like MD5, and a unique salt, such as “salty”, we can use the function MD5(_answer_to_question_ + “salty17”). This will create an impossible to guess security question that you can easily use anywhere.
-      
- # You Got Phished For Your Password
- 
- # Someone else got popped
- 
- SIGN UP for havIbeenpwned
+Combining the ideas of salting and hashing, now learn how you are going to make secure security questions! First, as a rule, don't use uppercase letters, spaces, or punctuation ever in your security questions. Why? Nothing about security, it just makes them easier to remember. Then if we take a hashing algorithm, like MD5, and a unique salt, such as “salty17”, we can use the function MD5(_answer_to_question_ + “salty17”). This will create a very very hard to figure out security question that you can easily use anywhere. 
+
+Or, if you are on a computer with your password manager, just write that shit down in your secure notes for a site. If they get your lastpass account you are screwed anyway, so don't worry about it.
+
+# You Got Phished For Your Password
+
+You can always get tricked with a good email or malicious link that leads you to a login page. Always, always, always, always look at the full URL. Green locks and any other bells and whistles won't help you. There is always a small chance that your DNS is being hijacked and the URL is right, in which case your browser will tell you that the HTTPS key has changed. Long story short, use chrome, listen to your browser and think. It's happened to me, it might happen to you, just don't lose your email or password manager. 
+
+There is more information on this you have already gotten. 
+
+# Someone else got popped
+
+Tasks:
+* Read this: https://haveibeenpwned.com/FAQs
+* Sign up for haveIbeenpwned with all of your emails, especially older ones
+
+# Default Passwords
+
+There are a lot of default passwords out there in the world. You can use them to get free wifi, but the bad guys can use them too. 
+
+Routers, Internet of Things devices, and web applications are common victims of default passwords. 
+If you have the ability to change the password, change the password. If you don't change the defaults, you are begging to get added to a botnet, or worse. 
 
 
-   # Default Passwords
-   
-   On your boxen, IOT, server setups, KALI
-   
-  # No Password
-  
-  Way more shit has no password than expected
-  
-  # Easy Password Resets
   
   
