@@ -11,6 +11,12 @@ Tasks:
 * Read Pass-Phrase and describe how pass phrases balance being a good password and a strong password.
 * Read Cracking and explain which technique an attacker would use to attack a password that they knew to be 6 random alpha numeric characters
 * Read Cracking and explain which technique an attacker would use to attack a password that they knew to be three random words added together.
+* Read this and follow interesting links: https://www.usna.edu/CyberDept/sy110/lec/cryptHashPswd/lec.html
+* https://xkcd.com/936/
+
+
+
+
 
 
 Here is a brief experiment for you to try. Try to make a rough guess how many web sites you use on a regular basis use your primary email as their account recovery address. Now, try to think about which of those sites are the most important to you that they remain secure; social media, banking, other email accounts. Now think of the sketchy sites you reuse the same password on. If those sketchy sites are breached, and the attacker gets your password, they can try it against your email. If they get your email, they can use it to take your other accounts.
@@ -61,6 +67,7 @@ Tasks:
 * Submit what the article recommends you do
 
 Luckily, there is a better way. Instead of forcing you to lie, we are going to introduce you to the ideas of hashing and salting.
+
 ### Hashing and Salting
 
 Tasks:
@@ -72,6 +79,11 @@ Tasks:
 Combining the ideas of salting and hashing, now learn how you are going to make secure security questions! First, as a rule, don't use uppercase letters, spaces, or punctuation ever in your security questions. Why? Nothing about security, it just makes them easier to remember. Then if we take a hashing algorithm, like MD5, and a unique salt, such as “salty17”, we can use the function MD5(_answer_to_question_ + “salty17”). This will create a very very hard to figure out security question that you can easily use anywhere. 
 
 Or, if you are on a computer with your password manager, just write that shit down in your secure notes for a site. If they get your lastpass account you are screwed anyway, so don't worry about it.
+
+# L0phtcrack tangent
+* http://www.washingtonpost.com/sf/business/2015/06/22/net-of-insecurity-part-3/?utm_term=.ea6927af0bd7
+* en.wikipedia.org/wiki/L0pht
+* Responsible Hacking
 
 # You Got Phished For Your Password
 
@@ -91,6 +103,7 @@ There are a lot of default passwords out there in the world. You can use them to
 
 Routers, Internet of Things devices, and web applications are common victims of default passwords. 
 If you have the ability to change the password, change the password. If you don't change the defaults, you are begging to get added to a botnet, or worse. 
+
 
 
   
