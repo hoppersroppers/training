@@ -9,7 +9,16 @@ What, you thought we were too cool for plebe cyber? Absolutely not, parts of tha
 4. Describe the risk management process
 5. What are the four principles of ORM?
 6. What are the three levels of ORM?
-7. What is risk? Yes, I am asking again.
+
+Another, and more useful risk equation is Risk = (Threat x Vulnerability) Asset Value
+
+So let's work through it again. 
+1. What is a threat?
+2. What is a vulnerability?
+3. How do we define asset value?
+4. What is the second risk equation?
+5. Ignoring the equations, what is risk?
+
 
 ## Threat Modeling 
 Read this: https://arstechnica.com/information-technology/2017/07/how-i-learned-to-stop-worrying-mostly-and-love-my-threat-model/
