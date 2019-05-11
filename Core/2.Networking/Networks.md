@@ -1,15 +1,5 @@
 https://www.bau.edu.jo/UserPortal/UserProfile/PostsAttach/10617_1870_1.pdf﻿ 
-  
-  * Networking
-   * layers 
-   * ifconfig/ipconfig
-   * pin
-   * nslookup
-   * tracerout
-   * baby war drive
-   * wireshark
-   * set up a router
-  * Networks
+
       * (Network +)
         * https://www.cybrary.it/course/comptia-network-plus/
       *Section 1: Introduction
