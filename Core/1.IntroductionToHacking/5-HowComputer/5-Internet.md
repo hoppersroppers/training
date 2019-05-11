@@ -8,16 +8,8 @@
    * https://web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm
       * all of this stuff
       
-      
-       * The Web  
-   * https://www.hacker101.com/sessions/web_in_depth 
+   * Build a damn website locally, then host it somewhere. 
 
-* Request form https://www.tutorialspoint.com/http/http_requests.htm
-* Response form https://www.tutorialspoint.com/http/http_responses.htm
-* Response codes https://www.tutorialspoint.com/http/http_status_codes.htm
-* URL Encoding https://www.tutorialspoint.com/http/http_url_encoding.htm
-* Status Codes https://www.tutorialspoint.com/http/http_status_codes.htm
-   
    * DNS stuff, direct ip 
    
    * What is the path of a website load 
@@ -33,6 +25,7 @@
    * Wireshark stuff
    * Internet Hosting providers   
    * Internet Routing providers
+   * Domain Name Server
   
   * Wayback machine
 	* chrome power user
