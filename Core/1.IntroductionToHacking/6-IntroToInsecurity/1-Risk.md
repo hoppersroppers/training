@@ -22,12 +22,14 @@ So let's work through it again.
 
 ## Threat Modeling 
 Read this: https://arstechnica.com/information-technology/2017/07/how-i-learned-to-stop-worrying-mostly-and-love-my-threat-model/
+
 https://docs.google.com/presentation/d/1A-0bggHr8fk0_UJhm251-GfyYShU0II3KNRDt9-uzjU/edit#slide=id.gcbf708df7_3_112
 
 Use this page to help assess what your risks are:https://ssd.eff.org/en/module/assessing-your-risks
 
 What do you want to protect? Who do you want to protect it from? How likely is it that you will need to protect it? How bad are the consequences if you fail? How much trouble are you willing to go through in order to try to prevent those?
 
+0. Don't actually write down secrets, just general things you want to protect.
 1. Write down a list of data that you keep, where it’s kept, who has access to it, and what stops others from accessing it.
 2. Think of four possible threat actors who might want to get a hold of your data or communications. It might be an individual, a government agency, or a corporation.
 3. Write down what each adversary might want to do with your private data
@@ -39,6 +41,7 @@ What do you want to protect? Who do you want to protect it from? How likely is i
 9. Undelete everything you just deleted
 10. Write down who could have gotten to the list you just deleted
 11. Make the decision of whether or not you need to delete the list you just made for yourself. If so, delete it. If you made it on Google Drive, good luck. This is a brain stretching exercie, so don't worry too much. 
+12. What would it take for a hostile entity to capture what you just wrote down, depending on where you did it. Is it on a piece of paper, a local word document, a google doc? All of those require very different attacks.
 
 One important note is that you might not have anything worth a targeted attack personally, but you have access to other things that might be interesting to other people. For example, your contact lists can be used to identify other, more important targets. Even more dangerous, someone could use your account to send phishes to your contacts. A @usna.edu address is going to have a significantly higher click rate than some random @gmail. You also have access to your network, so someone could use you to pivot to a network you have access to.
 
@@ -47,6 +50,7 @@ One important note is that you might not have anything worth a targeted attack p
 A huge part of this training is providing you with the mental models required to think about security. By providing the general framework, you can fill in the gaps, or at least start working towards filling the gaps. But sometimes, mental models just don't cut it. You need something on paper, written in blood, that will help you do what you need to do in order to be successful. Risk assesment models give organizations a way to identify problems and address them in a quantitiative and structured manner. There are a ton of them out in the wild, but the most important one for most people is NIST (National Institute of Standards and Technology). This is the general framework that all DoD and .gov sites adhere to. There are other specific frameworks like ISO27001, CIS Critical Security Controls, HIPAA (health data), PCI DSS (credit cards and banking), and countless others but those don't matter much to you other than knowing they exist. A good knowledge of NIST will get you most of the way there. 
 
 Tasks:
+1. So many things to do here. 
 2. Read this: https://www.nist.gov/cyberframework/online-learning/components-framework
 3. Read this: https://www.nist.gov/cyberframework/online-learning/five-functions
 3. Write a few sentences about each of the different function categories. 
