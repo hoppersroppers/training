@@ -7,8 +7,7 @@
    * http://www.internetsociety.org/internet/what-internet/history-internet/brief-history-internet
    * https://web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm
       * all of this stuff
-      
-   * Build a damn website locally, then host it somewhere. 
+  
 
    * DNS stuff, direct ip 
    
