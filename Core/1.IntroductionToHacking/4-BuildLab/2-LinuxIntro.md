@@ -1,6 +1,7 @@
 # What is Ubuntu
 
 Tasks: 
+
 0. What does Ubuntu mean?
 1. Read https://linuxjourney.com/lesson/linux-history
 2. Read Lesson 2
@@ -10,6 +11,7 @@ Tasks:
 
 
 # Make it Yours
+
 0. 
 1. Change Wallpaper
 2. Install Google Chrome
@@ -41,7 +43,7 @@ Tasks:
 13. Then use bashrc to build a permanent alias using the same article. Read this article https://medium.com/@tzhenghao/a-guide-to-building-a-great-bashrc-23c52e466b1c to get an idea of some other things you can do with a bashrc. Your bashrc can be as complicated or simple as you like, and there is near endless customization possible. You will be able to carry this around between VMs with you to automatically personalize it as soon as you load in the bashrc so its just like home. 
 Bashrc is part of a group of files called dotfiles, so named because they have a dot in front of their names. This makes them "hidden" files in the Linux directory system. Dotfiles are almost always used to store configuration settings. 
 
-14. Search through your command history and submit it. 
+14. Search through your command history and submit it. We are doing this so that we can understand where our curriculum breaks down and where we need to go into greater detail so you don't get as lost. 
 
 15. Virtual workspaces: Switch between workspaces and use the tweak tool to do stuff.
 16. Sudo apt-get install tmux. Use this. Keep doing this. https://fedoramagazine.org/use-tmux-more-powerful-terminal/
