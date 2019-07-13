@@ -1,13 +1,25 @@
 * History of Computers
    * http://www.explainthatstuff.com/historyofcomputers.html
     
-    * All that is good information, but the critical thing is that it's all just been progressively smaller ways to use electricity to  store 1s and zeros. 
+## Storage Density
+    * https://www.dataversity.net/brief-history-data-storage/
+    * All that is good information, but the critical thing is that it's all just been progressively smaller ways to store data
+    * Nowadays, we use electricity to  store 1s and zeros. 
+    * Write a brief bit about the importance of storage density. 
     * It is always useful to know more about electricity https://learn.sparkfun.com/tutorials/what-is-electricity
-    * How do these ones and zeros work https://learn.sparkfun.com/tutorials/binary
-    * Digital logic https://learn.sparkfun.com/tutorials/digital-logic
-    * Do this one too https://web.archive.org/web/20061008134026/http://www.facstaff.bucknell.edu:80/mastascu/eLessonsHTML/Logic/Logic1.html
-
-* What can you represent with all those 1s and 0s. 
+    
+## Telecommunication Basics
+   * https://en.wikipedia.org/wiki/Telecommunication
+         * https://en.wikipedia.org/wiki/Naval_flag_signalling
+         * https://en.wikipedia.org/wiki/Flag_semaphore
+         * https://en.wikipedia.org/wiki/Morse_code
+         * https://en.wikipedia.org/wiki/ARPANET
+             * https://en.wikipedia.org/wiki/Packet_switching
+    
+   * So what did we learn there? Write a brief bit about the importance of bits per second.
+    
+   * How do these ones and zeros work https://learn.sparkfun.com/tutorials/binary
+   * What can you represent with all those 1s and 0s. 
    * Do this https://code.tutsplus.com/articles/number-systems-an-introduction-to-binary-hexadecimal-and-more--active-10848
    * Also, hey, what is ascii? This is ascii. https://en.wikipedia.org/wiki/ASCII
    * Also hey, what is hex? https://en.wikipedia.org/wiki/Hexadecimal
@@ -26,7 +38,14 @@
 
 * It is annoying to do that by hand, but it does help. Here is a tool so that you never have to do that again. https://gchq.github.io/CyberChef/. Fun fact, it is released by GCHQ, Britain's version of the NSA. Great tool and very very useful. 
 
-# Hardware Explainer
+
+    
+## Digital Logic Basics
+    * Digital logic https://learn.sparkfun.com/tutorials/digital-logic
+    * Do this one too https://web.archive.org/web/20061008134026/http://www.facstaff.bucknell.edu:80/mastascu/eLessonsHTML/Logic/Logic1.html
+    * Explain why this is important
+
+# Hardware Basics
 
 * Using Google, explain all these things.
 
