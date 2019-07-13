@@ -68,9 +68,9 @@ First, some vocab.
 Remember honey tokens? Or just malware. That calls home real nice. There's also a fine line in the middle refered to by some as a "Network Investigative Tool" which is basically just a system profiler that calls home and deletes itself.
 
 ## What Can Be Done with an IP
-   * Identify general location BUT THAT IS ALL YOU CAN DO WITH AN IP ADDRESS.
+   * Identify general location 
    * DDOS their router 
-   * Hacking their Router
+   * Hack their Router
    * Court orders to ISPs
    * Threaten to give it to police so they can go get a court order
    
