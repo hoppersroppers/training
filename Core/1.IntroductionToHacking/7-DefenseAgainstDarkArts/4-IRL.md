@@ -26,7 +26,7 @@ Tasks:
 * Identify which of these things you have not done yet and do them.
 * Read Grugq's Commandments: https://grugq.tumblr.com/post/60463307186/rules-of-clandestine-operation
 
-* Listen to the 10 Hack Commandments: https://www.youtube.com/watch?v=Sr8ILq1a_yw. It's by a guy called Dual Core, makes some pretty dope stuff for a rapper who writes for nerds. His number one song is 'Drink All the Booze, Hack All the Things' https://www.youtube.com/watch?v=FoUWHfh733Y. Let's put it this way, hackers don't take themselves all that seriously, and they can do some pretty cringey shit. If you are too cool for nerdcore rap, that is okay, but the main thing is that something has got to hype  you up and if you don't want to get drunk and hack shit to that, you're in the wrong place.
+* Listen to the 10 Hack Commandments: https://www.youtube.com/watch?v=Sr8ILq1a_yw. It's by a guy called Dual Core, makes some pretty dope stuff for a rapper who writes for nerds. His number one song is 'Drink All the Booze, Hack All the Things' https://www.youtube.com/watch?v=FoUWHfh733Y. Let's put it this way, hackers don't take themselves all that seriously, and they can do some pretty cringey shit. If you listen to the lyrics to 'Hack All the Things' you will probably understand about one third of the references, at best. If you don't like it or are too cool for nerdcore rap, that's fine. If you stick around eventually you'll understand most of it and you'll go nuts when someone throws it on during a late night hack sesh after you've been passing around a bottle of whiskey.
 
 If you have the time, these are all highly recommended, if not, add them to your 'Read At Some Point' tab in the Learning Sheet:
 * Hacker OPSEC talk: https://www.youtube.com/watch?v=9XaYdCdwiWU
