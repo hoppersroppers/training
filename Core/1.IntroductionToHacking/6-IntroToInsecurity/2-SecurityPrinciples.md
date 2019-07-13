@@ -19,7 +19,6 @@ Tasks:
 2. List 8 Design Principles and describe why each is important. 
 3. Describe why psychological acceptability is the most important of all of these design principles.
 
-There are a couple other security principles worth talking about.. "asset deprecation", "exploit mitigiation", ability to quickly respond. Requires fleshing out but is not required.
 
 ## Real World Application 
 Read this: https://www.cs.cornell.edu/courses/cs513/2005fa/NL02.Lampson.pdfTask: 
@@ -42,6 +41,8 @@ If you dont understand what any the laws mean, try to google around to figure it
 # Tenets
 https://docs.google.com/document/d/15c1uUdBtVXqfzu88zo5kMvD7udgdedGEPHgHPPhbymo/edit
 
-This might get turned into its own section. I wrote it myself, but I'm good. 
-Read it, know the things contained, use it to not sound like an idiot if you ever talk about cyber doctrine/policy.
+This might get turned into its own section. I wrote it myself, but it is pretty good. 
+I have not broken this down into beginner friendly stuff yet, so read it and google things you don't understand. If you can't understand something using google, message me and I'd love to talk about it. 
+
+Read it, know the things contained, it will help you talk about cyber doctrine/policy.
 
