@@ -25,9 +25,10 @@ Tasks:
 * Read this: https://gist.github.com/grugq/353b6fc9b094d5700c70 
 * Identify which of these things you have not done yet and do them.
 * Read Grugq's Commandments: https://grugq.tumblr.com/post/60463307186/rules-of-clandestine-operation
-* Listen to the 10 Hack Commandments: https://www.youtube.com/watch?v=Sr8ILq1a_yw
 
-If you have the time, these are all highly recommended:
+* Listen to the 10 Hack Commandments: https://www.youtube.com/watch?v=Sr8ILq1a_yw. It's by a guy called Dual Core, makes some pretty dope stuff for a rapper who writes for nerds. His number one song is 'Drink All the Booze, Hack All the Things' https://www.youtube.com/watch?v=FoUWHfh733Y. Let's put it this way, hackers don't take themselves all that seriously, and they can do some pretty cringey shit. If you are too cool for nerdcore rap, that is okay, but the main thing is that something has got to hype  you up and if you don't want to get drunk and hack shit to that, you're in the wrong place.
+
+If you have the time, these are all highly recommended, if not, add them to your 'Read At Some Point' tab in the Learning Sheet:
 * Hacker OPSEC talk: https://www.youtube.com/watch?v=9XaYdCdwiWU
 * Dulles' 73 Rules: http://www.oss.net/dynamaster/file_archive/100102/0a947a77d762061cc87ec541c2d2dcc7/2010-01-02%20Dulles%20on%20Tradecraft%20via%20Srodes.pdf
 * Moscow Rules: https://en.wikipedia.org/wiki/The_Moscow_rules
