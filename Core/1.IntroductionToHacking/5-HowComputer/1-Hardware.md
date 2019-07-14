@@ -2,11 +2,11 @@
    * http://www.explainthatstuff.com/historyofcomputers.html
     
 ## Storage Density
-    * https://www.dataversity.net/brief-history-data-storage/
-    * All that is good information, but the critical thing is that it's all just been progressively smaller ways to store data
-    * Nowadays, we use electricity to  store 1s and zeros. 
-    * Write a brief bit about the importance of storage density. 
-    * It is always useful to know more about electricity https://learn.sparkfun.com/tutorials/what-is-electricity
+   * https://www.dataversity.net/brief-history-data-storage/
+   * All that is good information, but the critical thing is that it's all just been progressively smaller ways to store data
+   * Nowadays, we use electricity to  store 1s and zeros. 
+   * Write a brief bit about the importance of storage density. 
+   * It is always useful to know more about electricity https://learn.sparkfun.com/tutorials/what-is-electricity
     
 ## Telecommunication Basics
    * https://en.wikipedia.org/wiki/Telecommunication
@@ -41,8 +41,8 @@
 
     
 ## Digital Logic Basics
-    * Digital logic https://learn.sparkfun.com/tutorials/digital-logic
-    * Do this one too https://web.archive.org/web/20061008134026/http://www.facstaff.bucknell.edu:80/mastascu/eLessonsHTML/Logic/Logic1.html
+   * Digital logic https://learn.sparkfun.com/tutorials/digital-logic
+   * Do this one too https://web.archive.org/web/20061008134026/http://www.facstaff.bucknell.edu:80/mastascu/eLessonsHTML/Logic/Logic1.html
     * Explain why this is important
 
 # Hardware Basics
@@ -60,7 +60,6 @@
       * Solid State 
       
 * Graphics Card
-
 
 * What is the name of your computer?
 
