@@ -10,6 +10,11 @@
 
 * Read this https://www.usna.edu/Users/cs/wcbrown/courses/si110AY13S/lec/l05/lec.html
 
+* Read the wiki https://en.wikipedia.org/wiki/File_system down to finishing Aspects of File Systems
+* Do some sort of homework, I don't know what yet
+
+There is a lot in there but basically all you need to know is that File Systems optimize the space used to store your files and provide services on top to allow them to work properly and be secure. 
+
  Desktop
        * Windows
        * Linux
@@ -42,6 +47,10 @@
         * Increase RAM allocated to Virutal Machine
         * Check back on your VM to see CPU utilization
         * Decrease RAM to whatever is necessary
+        
+        
+     * Memory Forensics 
+        * https://resources.infosecinstitute.com/category/computerforensics/introduction/areas-of-study/digital-forensics/memory-forensics/
 
 * Storage
      * Windows
@@ -49,6 +58,8 @@
          * https://www.wideanglesoftware.com/blog/windows/8-tips-free-up-space-on-computer.php
      * Linux
          * https://www.makeuseof.com/tag/manage-ubuntu-hdd-disk-utility/
+     * Hard Drive Forensics
+         * https://resources.infosecinstitute.com/category/computerforensics/introduction/areas-of-study/digital-forensics/media-file-system-forensics/
          
 * Boot Process
       * Linux 
@@ -60,10 +71,16 @@
 * Logs
      * Windows
          * https://www.howtogeek.com/123646/htg-explains-what-the-windows-event-viewer-is-and-how-you-can-use-it/
+         * Turn on Sysmon
+             * https://docs.microsoft.com/en-us/sysinternals/downloads/sysmon
+             * Install Tay's Sysmon config https://github.com/SwiftOnSecurity/sysmon-config
+             
+         * Windows Forensics 
+             * https://resources.infosecinstitute.com/category/computerforensics/introduction/areas-of-study/digital-forensics/operating-system-forensics/
+             * We are not going to go over forensics, but read over this poster and look at all the artifacts that are created by Windows. https://www.sans.org/security-resources/posters/windows-forensic-analysis/170/download
      * Linux
          * https://www.linux.com/learn/sysadmin/viewing-linux-logs-command-line
-
-
-
+         * https://www.sandflysecurity.com/wp-content/uploads/2018/11/Linux.Compromise.Detection.Command.Cheatsheet.pdf
+    
 
   
