@@ -1,9 +1,15 @@
 
 Lol. There's nothing here.
+
 History
+
 File System
+
 Driver? How it all ties together
+
 You already know how computers work
+
+https://www.laptopmag.com/articles/how-to-use-windows-10
 
 
 
