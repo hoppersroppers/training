@@ -26,12 +26,27 @@ What, you thought it's all about technical stuff? Hell no! Most of this comes do
 * Eyes
    * f.lux to limit blue light
    * low brightness
-   * blue light reducing glasses
+   * Blue light reducing glasses are highly recommended
    
    
 * Touch Typing
    * https://www.how-to-type.com/
    * Seriously will change your life
    
+* Music
+ Good music sets the tone for programming, learning, and just feeling in the mood.
+ 
+ Science tells us pretty consistently that lyrics result in decreased performance. That is why the majority of people recommend instrumentals or techo music, but there is also a significant amount of foreign language music, specifically asian pop. 
+ 
+ Great sites are:
+ * http://musicforprogramming.net/?one
+ * https://somafm.com/ is a classic hacker music site, with Groove Salad as a long time standout https://somafm.com/groovesalad/
+ * https://www.programmersmusic.com/
+ * https://8tracks.com/explore/hacking
+ 
 
-   
+ Glitch Mob
+ Chiptune
+ Aphex Twin
+ K-Pop, A-Pop, J-Pop
+  
