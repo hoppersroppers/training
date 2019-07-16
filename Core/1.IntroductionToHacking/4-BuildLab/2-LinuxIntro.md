@@ -49,4 +49,10 @@ Bashrc is part of a group of files called dotfiles, so named because they have a
 16. Sudo apt-get install tmux. Use this. Keep doing this. https://fedoramagazine.org/use-tmux-more-powerful-terminal/
 17. Make your terminal pretty by installing Lynx
 
+### Introduction to Man Pages
 
+
+
+### The Final Boss of Your Linux Introduction
+
+Complete http://overthewire.org/wargames/bandit/. This is a classic set of challenges that every member of our team has fought through, and while it takes some time, you should have had enough experience to figure out what you need to do. It won't be easy, it might not be the most fun, but completion of this challenge is the single greatest determining factor in whether or now you continue along this journey. Let us know if you get stuck on any challenge for longer than a half hour, we will gladly point you in the right direction. And no cheating, as Hemingway once said, “There is nothing noble in being superior to your fellow man; true nobility is being superior to your former self.” We like Hemingway. He  was a big fan of boats and alcohol and adventures. We are too. 
