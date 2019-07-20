@@ -14,9 +14,9 @@ Good luck.
 Our team has gone by many names, but one of our favorite's is Hopper's Roppers. You may have heard of Grace Hopper before because the Cyber Center is going to be named after her.
 
 Images:
-https://i2.wp.com/hopperboulder.com/wp-content/uploads/2019/03/Grace1-2.jpg?w=704&ssl=1
-https://en.wikipedia.org/wiki/Grace_Hopper#/media/File:Commodore_Grace_M._Hopper,_USN_(covered).jpg
-https://news.yale.edu/sites/default/files/styles/horizontal_image/public/d6_files/YaleNews_hopper-grace.UNIVAC.102635875-CC_0.jpg?itok=4HL3ETlO
+
+![alt text](https://upload.wikimedia.org/wikipedia/commons/a/ad/Commodore_Grace_M._Hopper%2C_USN_%28covered%29.jpg "img2")
+
 
 To learn more about her, read this: http://www.biography.com/people/grace-hopper-21406809
 
@@ -27,6 +27,8 @@ Google what a compiler is and write two or three sentences on why that was so im
 
 ## Ask Forgiveness
 Have you ever heard the quote, “It's easier to ask forgiveness than it is to get permission.”? That was her. 
+
+![alt text](https://i2.wp.com/hopperboulder.com/wp-content/uploads/2019/03/Grace1-2.jpg?w=704&ssl=1 "img1")
 
 This quote comes from an interview in the July 1986 CHIP’s Ahoy Magazine, the Department of the Navy’s Information Technology Magazine. She was at the cutting edge then and it is a testament to her vision how well this interview stands up to the test of time. Her passion for knowledge and innovation is the most important thing you can carry with you.
 
@@ -58,6 +60,9 @@ Anytime something on this site doesn't seem to be matching up with our core tene
 All you need to know right now is that ROP is an advanced exploitation technique which beats advanced defenses by chaining together code which was already in a program in order to perform unexpected behavior which gives an attacker control. That definition is good enough for now, but if you stick around with us, soon enough you will know what it means and eventually you will be writing exploits of your own. The critical bit for you to understand right now is that you take snippets of existing code, chain it back together in a new order, and then use those to jump to where you need to go next. As you go through this course you will do the same thing, reusing already learned information and arranging it to jump to new locations. 
 
 ## Content
+
+![alt text](https://news.yale.edu/sites/default/files/styles/horizontal_image/public/d6_files/YaleNews_hopper-grace.UNIVAC.102635875-CC_0.jpg?itok=4HL3ETlO "img3")
+
 This curriculum was created based on inputs from members of the great Naval Academy classes of '15, '16, '17, and '18. We put this curriculum together by aggregating all of the guides on how to become successful in information security, took what we thought was important and added things of our own. To say that this is built on the backs of a hundred other guides would be an understatement, and we are grateful that we are part of an infosec community which has so many online resources. All attempts to cite source material have been made. This is the first iteration of the curriculum online and it should change drastically as we see what does and doesn't work, and the only way we will know is feedback from students like you. 
 
 ## Feedback
