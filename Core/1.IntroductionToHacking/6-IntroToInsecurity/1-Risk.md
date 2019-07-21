@@ -16,9 +16,8 @@ So let's work through it again.
 1. What is a threat?
 2. What is a vulnerability?
 3. How do we define asset value?
-4. What is the second risk equation?
-5. Ignoring the equations, what is risk?
-
+4. What is the value added of the the second risk equation?
+5. Ignoring the equations, how do you define risk?
 
 ## Threat Modeling 
 Read this: https://arstechnica.com/information-technology/2017/07/how-i-learned-to-stop-worrying-mostly-and-love-my-threat-model/
@@ -46,7 +45,7 @@ What do you want to protect? Who do you want to protect it from? How likely is i
 One important note is that you might not have anything worth a targeted attack personally, but you have access to other things that might be interesting to other people. For example, your contact lists can be used to identify other, more important targets. Even more dangerous, someone could use your account to send phishes to your contacts. A @usna.edu address is going to have a significantly higher click rate than some random @gmail. You also have access to your network, so someone could use you to pivot to a network you have access to.
 
 
-## Risk Assement
+## Risk Assessment
 A huge part of this training is providing you with the mental models required to think about security. By providing the general framework, you can fill in the gaps, or at least start working towards filling the gaps. But sometimes, mental models just don't cut it. You need something on paper, written in blood, that will help you do what you need to do in order to be successful. Risk assesment models give organizations a way to identify problems and address them in a quantitiative and structured manner. There are a ton of them out in the wild, but the most important one for most people is NIST (National Institute of Standards and Technology). This is the general framework that all DoD and .gov sites adhere to. There are other specific frameworks like ISO27001, CIS Critical Security Controls, HIPAA (health data), PCI DSS (credit cards and banking), and countless others but those don't matter much to you other than knowing they exist. A good knowledge of NIST will get you most of the way there. 
 
 Tasks:
@@ -58,7 +57,7 @@ Tasks:
 4. Read this: https://www.nist.gov/cyberframework/online-learning/uses-and-benefits-framework
 5. Write a few sentences on how to use the framework to drive decision making.
 
-You probably don't know much right now technically, but technical knowledge is meant to inform your decision making processes, and you can usually get along fairly well on a good mix of common sense and procedure. Remember, frameworks are just frameworks, and are only as good as the person doing the assesment.
+You probably don't know much right now technically, but technical knowledge is meant to inform your decision making processes, and you can usually get along fairly well on a good mix of common sense and procedure. Remember, frameworks are just frameworks, and are only as good as the person doing the assessment.
 
 
 
