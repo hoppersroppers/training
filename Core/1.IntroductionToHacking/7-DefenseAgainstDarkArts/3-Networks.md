@@ -2,7 +2,7 @@
 ## Intro
 Add this to the list of security truisms.
 
-Any network connected to the internet must be considered hostile. Most intranets should be considered hostile to. In fact, it is hard to imagine a more "hostile" network than a DoD network.
+"Any network connected to the internet must be considered hostile." Most intranets should be considered hostile too. In fact, it is hard to imagine a more "hostile" network than a DoD network.
 
 But what does "hostile" mean? In this case, the general idea is that if computer A wishes to communicate with computer C, that means that they need to send all of their traffic through computer B. Gentleman's agreements not to look at that traffic might have worked on Arpanet, but not anymore.
 
@@ -53,14 +53,13 @@ First, some vocab.
 * Proxychains
 * VPNs
 * TOR
+* Dark Web
+* Deep Web
 
  * https://danielmiessler.com/study/internet-deep-dark-web
  
  Tasks: 
- * Make Your Own Proxy
- * Make your own proxychains
- * Setup your own VPN
- * Don't go on TOR. Tis a silly place.
+1. Define all the vocab words.
  
        
 ## Circumventing Proxies and Going Right to the Source
@@ -106,10 +105,10 @@ Once again, the academy's piece on this is pretty damn good. Of course, we'll be
 https://www.usna.edu/CyberDept/sy110/lec/cryptSymmEnc/lec.html
 
 Questions:
-* Of CIANA, what were the pillars that can be attacked if an adversary is able to do a man in the middle?
-* In the Computer A,B and C scenario, what are the human names which match up to them?
-* This one requires a google, but who is Mallory, and what makes her different from Eve?
-* How does your browser protect you from MITM attacks? This will require a google.
+1. Of CIA, what were the pillars that can be attacked if an adversary is able to do a man in the middle?
+2. In the Computer A,B and C scenario, what are the human names which match up to them?
+3. This one requires a google, but who is Mallory, and what makes her different from Eve?
+4. How does your browser protect you from MITM attacks? This will require a google.
 
 ## How to Be Safe
 * Use a VPN/proxy/tor
@@ -117,7 +116,8 @@ Questions:
 * ublock origin should alreayd be on
 * Browser safety extensions!
 * Basic wifi safety
-    * Use a VPN!* Open WiFi vs. secure WiFi
+    * Use a VPN!
+    * Open WiFi vs. secure WiFi
     * http://fieldguide.gizmodo.com/how-to-stay-safe-on-public-wifi-1779464400
     * https://www.google.com/safetycenter/everyone/start/safe-networks/
 
@@ -129,7 +129,7 @@ Questions:
 
 		 
 # You got 0'Dayd
-        * Guess what... you're not important enough for that. See: threat modeling
+* Guess what... you're not important enough for that. See: threat modeling
 * Here are some prices
 https://www.wired.com/2015/11/heres-a-spy-firms-price-list-for-secret-hacker-techniques/
 
