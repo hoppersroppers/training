@@ -46,11 +46,8 @@ Bashrc is part of a group of files called dotfiles, so named because they have a
 
 
 ### Introduction to Man Pages
-
-### Linux Security
-
-1. Do everything on the First 10 Minutes Guide. Read this: https://www.codelitt.com/blog/my-first-10-minutes-on-a-server-primer-for-securing-ubuntu/ It won't take you 10 minutes. Probably more like an hour or two. You will have to use other resources than just this post.
-2. For each step, write why you are doing it, what the critical security controls being added are, and any issues you had doing it. This will require some google. Once you are done, submit your list.
+Read this. https://www.cs.mcgill.ca/~guide/help/man.html
+Remember, if the man page doesn't help, googling the command and the word "usage" will usually get you where you need to be. 
 
 ### The Final Boss of Your Linux Introduction
 
@@ -64,3 +61,7 @@ Complete http://overthewire.org/wargames/bandit/. This is a classic set of chall
 
 16. Sudo apt-get install tmux. Use this. Keep using this. https://fedoramagazine.org/use-tmux-more-powerful-terminal/
 17. Make your terminal pretty by installing Lynx
+### Linux Security
+
+1. Do everything on the First 10 Minutes Guide. Read this: https://www.codelitt.com/blog/my-first-10-minutes-on-a-server-primer-for-securing-ubuntu/ It won't take you 10 minutes. Probably more like an hour or two. You will have to use other resources than just this post.
+2. For each step, write why you are doing it, what the critical security controls being added are, and any issues you had doing it. This will require some google. Once you are done, submit your list.
