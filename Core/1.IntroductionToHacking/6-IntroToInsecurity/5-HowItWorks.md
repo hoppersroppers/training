@@ -24,7 +24,7 @@ But, we can go over good ways to think about this.
 
 This site goes over where all your vulnerabilities lie.
 
-https://capec.mitre.org/data/definitions/3000.html
+[https://capec.mitre.org/data/definitions/3000.html](https://capec.mitre.org/data/definitions/3000.html)
 
 * Social Engineering
 * Supply Chain
@@ -43,6 +43,8 @@ Tasks:
 
 
 Now we can think about how you get attacked in those domains in terms of attack mechanisms as seen here. This is a crazy useful resource that will require its own section someday.
+
+[https://capec.mitre.org/data/definitions/1000.html](https://capec.mitre.org/data/definitions/1000.html)
 
 List of Attack Mechanisms:
 
