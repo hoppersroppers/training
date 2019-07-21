@@ -1,8 +1,10 @@
 # Security Principles
-# CIANA 
-Once again, I really like the plebe cyber version of this. Read this: https://www.usna.edu/CyberDept/sy110/lec/pillarsCybSec/lec.html
+# CIA Triad
+No, not that CIA. 
 
-CIANA is a very important fundamental concept, make sure that you know it.
+Read this: [https://resources.infosecinstitute.com/cia-triad/](https://resources.infosecinstitute.com/cia-triad/)
+
+CIA is a very important fundamental concept, make sure that you know it. The Acadmey teaches CIANA, with 2 dumb things at then end, it provides no value. 
 
 Task: For each pillar, submit the word, the definition, and a way that it applies to your email account.
 
@@ -28,13 +30,14 @@ Read this: https://www.cs.cornell.edu/courses/cs513/2005fa/NL02.Lampson.pdfTask:
 ## Immutable Laws
 First, immutable means "unchanging over time or unable to be changed". You'll see this word in various contexts throughout computing.The paper 10 Immutable Laws of Security is a seminal paper on why security is hard. 
 
-Read this: https://technet.microsoft.com/en-us/library/hh278941.aspx
+Read this: [https://technet.microsoft.com/en-us/library/hh278941.aspx](https://technet.microsoft.com/en-us/library/hh278941.aspx
+)
 
 There are plenty of updated versions, but this one is nice because it is totally different.
 
-Read this: http://www.edgeblog.net/2006/10-new-immutable-laws-of-it-security/
+Read this: [http://www.edgeblog.net/2006/10-new-immutable-laws-of-it-security/](http://www.edgeblog.net/2006/10-new-immutable-laws-of-it-security/)
 
-If you dont understand what any the laws mean, try to google around to figure it out.
+If you don't understand what any the laws mean, try to google around to figure it out.
 1. Submit the names and a short explanation of each of the 10 original laws. 
 2. Submit the names and a short explanation of each of the other laws.
 
@@ -42,7 +45,7 @@ If you dont understand what any the laws mean, try to google around to figure it
 https://docs.google.com/document/d/15c1uUdBtVXqfzu88zo5kMvD7udgdedGEPHgHPPhbymo/edit
 
 This might get turned into its own section. I wrote it myself, but it is pretty good. 
-I have not broken this down into beginner friendly stuff yet, so read it and google things you don't understand. If you can't understand something using google, message me and I'd love to talk about it. 
+I have not broken this down into beginner friendly stuff yet, so read it and google things you don't understand. If anything sounds interesting, just add them to your Sheet filled with things you want to learn. If you can't understand something using google, message me and I'd love to talk about it. 
 
 Read it, know the things contained, it will help you talk about cyber doctrine/policy.
 
