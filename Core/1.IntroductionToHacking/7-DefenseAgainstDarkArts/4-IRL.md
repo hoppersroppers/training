@@ -5,17 +5,14 @@ If someone has found you in real life, the game is over. There are all sorts of 
 ## What is OPSEC?
 
 Tasks:
-* Take Uncle Sam's OPSEC
-* Submit a certificate from the last year
-* Submit what is the OPSEC Purple Dragon
-* Check out the fingerprinter at Panopticlick: https://panopticlick.eff.org/tracker
-* Submit what this means to you
-* Read this: https://gizmodo.com/5901430/these-breasts-nailed-anonymous-hacker-in-fbi-case
-* Give me the GPS coords for this picture: https://exposingtheinvisible.org/ckeditor_assets/pictures/32/content_example_ibiza.jpg . I recommend this site: http://exif.regex.info/
+
+1. Submit what is the OPSEC Purple Dragon
+2. Check out the fingerprinter at Panopticlick: [https://panopticlick.eff.org/tracker](https://panopticlick.eff.org/tracker)
+3. Read this: [https://gizmodo.com/5901430/these-breasts-nailed-anonymous-hacker-in-fbi-case](https://gizmodo.com/5901430/these-breasts-nailed-anonymous-hacker-in-fbi-case)
+4. Give me the GPS coords for this picture: [https://exposingtheinvisible.org/ckeditor_assets/pictures/32/content_example_ibiza.jpg](https://exposingtheinvisible.org/ckeditor_assets/pictures/32/content_example_ibiza.jpg) . I recommend this site: [http://exif.regex.info/](http://exif.regex.info/)
 
 ## Compartmentalization
 
-Remember how I made you use a brand new email for your password manager reset? This is why. 
 
 Tasks:
 * Listen to the 10 Crack Commandments: https://www.youtube.com/watch?v=ZYb_8MM1tGQ 
@@ -43,9 +40,6 @@ If you have the time, these are all highly recommended, if not, add them to your
 # Securing your Life
 
 Tasks: 
-* Get Keybase
-* Send a PGP email
-* Download Signal
 * Look at this: https://privacy.com/
 * Create a fake person
    * Get a burner email 
@@ -60,8 +54,7 @@ A physical attack on your computer, called an "Evil Maid", is a classic attack a
 
 Tasks:
 * Read this: http://images.secure.f-secure.com/Web/FSecure/%7B319382b2-a040-4c88-bd94-20eed01bf22f%7D_F-Secure-Evil-Maid-Guide.pdf
-* Create more tasks...
-* Where does an evil maid attack fall into your personal 
+* Where does an evil maid attack fall into your personal threat model?
 
 You can also mount an encrypted partition in your OS, and use that to hold a virtual machine to do your important work on. That gives you a ton of deniability, especially with the ability to make multiple partitions that unlock to different passwords. Remember though, if you get hacked on the outside, you get hacked in the VM as well. Either way, you need FDE and secure boot if you want to beat an evil maid.
 
@@ -72,6 +65,7 @@ Alright, now that you know that you need FDE and Secure Boot, lets go into vario
 	* Read about Cold Boot attacks
 	    * https://en.wikipedia.org/wiki/Cold_boot_attack
 	    * While this sounds hard, I've done one before in a controlled environment. Actually pretty easy.
+	    
 2. Breaking in to your hotel room and installing a keylogger, then breaking back in later and stealing your laptop now that they have the password. Or just arresting you.
         * https://en.wikipedia.org/wiki/Black-bag_cryptanalysis
 	* Classic Boot attack
