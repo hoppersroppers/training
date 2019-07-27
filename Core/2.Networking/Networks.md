@@ -1,3 +1,14 @@
+* ifconfig/ipconfig
+   * ping
+   * nslookup
+   * traceroute
+
+   * How does ethernet work?
+   * How does Wifi work?
+   * baby war drive
+   * set up a router
+
+
 https://www.bau.edu.jo/UserPortal/UserProfile/PostsAttach/10617_1870_1.pdf﻿ 
 
       * (Network +)
