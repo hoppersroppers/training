@@ -10,3 +10,19 @@
 * URL Encoding https://www.tutorialspoint.com/http/http_url_encoding.htm
 * Status Codes https://www.tutorialspoint.com/http/http_status_codes.htm
    
+   * DNS stuff, direct ip 
+   
+   * What is the path of a website load 
+   
+   * How do websites work? 
+   * How do web apps work? 
+   * Client side/ server side
+   * Chrome Dev tools
+   
+   * whois, stuff like that
+   * Technical Architecture
+   * Information Architecture
+   * Wireshark stuff
+   * Internet Hosting providers   
+   * Internet Routing providers
+   * Domain Name Server
