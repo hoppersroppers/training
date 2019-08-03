@@ -22,6 +22,7 @@ What, you thought it's all about technical stuff? Hell no! Most of this comes do
    * https://azeria-labs.com/the-importance-of-deep-work-the-30-hour-method-for-learning-a-new-skill/ Azeria wrote some great stuff on this. 
    * https://azeria-labs.com/paradox-of-choice/
    * https://azeria-labs.com/the-process-of-mastering-a-skill/
+   * https://hbr.org/2007/07/the-making-of-an-expert
    
 * Eyes
    * f.lux to limit blue light
