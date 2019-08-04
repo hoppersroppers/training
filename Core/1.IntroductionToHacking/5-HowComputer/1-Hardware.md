@@ -65,7 +65,6 @@
 8. Solid State Hard Drive     
 9. Graphics Card
 
-* Go to Device Manager and look at your specifications, or "specs".
 
 # Levels of Code
 ## Machine Code and Assembly Code
