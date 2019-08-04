@@ -43,8 +43,13 @@ What, you thought it's all about technical stuff? Hell no! Most of this comes do
 * Hydrate Constantly
    * My life motto is "Stay Happy and Stay Hydrated", and it is inscribed in my class ring... so yeah, I take hydration seriously. 
    * Read this: https://www.webmd.com/food-recipes/features/quest-for-hydration#1
-   
 
+* Nutrition
+   * I'm not going to make you read anything, just don't eat cheetos and hot pockets and drink monsters as your only sustinence for the day. Order in some chinese or Thai. Not every delivery meal has to be Pizza. 
+   
+* Fitness
+   * Not going to beat this one to death, but with an intramural exemption, comes great responsibility. Work out as a team, on your own. Crush the PRT. Never let anyone be able to say that the nerds on the cyber team are not able to pass the run. 
+   
 * Mental Health
    * The hacker community has a significant amount of mental health concerns above the general norm. The more you know about these concerns and their symptoms, the better you can understand them. Additionally, everyone needs more general suicide prevention and depression training. It's not fun but it is worth having all the resources you can. The Midshipmen Development Center counselors are amazing and are shockingly good at keeping your business private. Always remember that they have to report things, but the system is structured in a way that it will not effect your commission if you can get results with them. 
    
