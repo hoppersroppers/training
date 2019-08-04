@@ -1,6 +1,9 @@
 What, you thought it's all about technical stuff? Hell no! Most of this comes down to you!
 
-* Ergonomics (straight jacked from https://www.mayoclinic.org/healthy-lifestyle/adult-health/in-depth/office-ergonomics/art-20046169 for now)
+## Ergonomics
+
+* Ergonomics 
+   * (straight jacked from https://www.mayoclinic.org/healthy-lifestyle/adult-health/in-depth/office-ergonomics/art-20046169 for now)
    * Chair: Choose a chair that supports your spinal curves. Adjust the height of your chair so that your feet rest flat on the floor or on a footrest and your thighs are parallel to the floor. Adjust armrests so your arms gently rest on them with your shoulders relaxed.
    * Key objects: Keep key objects — such as your telephone, stapler or printed materials — close to your body to minimize reaching. Stand up to reach anything that can't be comfortably reached while sitting.
    * Keyboard and mouse: Place your mouse within easy reach and on the same surface as your keyboard. While typing or using your mouse, keep your wrists straight, your upper arms close to your body, and your hands at or slightly below the level of your elbows. Use keyboard shortcuts to reduce extended mouse use. If possible, adjust the sensitivity of the mouse so you can use a light touch to operate it. Alternate the hand you use to operate the mouse by moving the mouse to the other side of your keyboard.
@@ -13,11 +16,17 @@ What, you thought it's all about technical stuff? Hell no! Most of this comes do
 * Posture 
    * Have good posture. When sitting, make sure your thighs are parallel to the floor and the armrests are just slightly below your elbows (measure this by sitting in the chair and dropping your arms to your sides). Keyboard height should be one to two inches below your elbows so that your hands while typing, are in a neutral position,” he says. Additionally, although it’s a hard habit to break, try not to cross your legs—instead keep both feet flat on the floor in front of you.
    
-* Hydrate Constantly
 
-* Productivity Methods
+* Eyes
+   * f.lux to limit blue light
+   * low brightness
+   * You can also get cheap blue light reducing glasses
+   
+## Productivity and Deep Work
+
+* Methods
    * Give the Pomodoro technique a try: https://lifehacker.com/productivity-101-a-primer-to-the-pomodoro-technique-1598992730
-   * It orks great for a lot of folk. Don't sit too long... but don't lose concentration during your breaks. Recommended is to look at something in the distance and chill out for a bit.
+   * It works great for a lot of folk. There are tons of techniques for this, but the secret is you just need an established system to do it and it will be better than anything else you were making up as you go along... that can be applied to literally everything in this world. 
    
 * Deep Work
    * https://azeria-labs.com/the-importance-of-deep-work-the-30-hour-method-for-learning-a-new-skill/ Azeria wrote some great stuff on this. 
@@ -25,15 +34,17 @@ What, you thought it's all about technical stuff? Hell no! Most of this comes do
    * https://azeria-labs.com/the-process-of-mastering-a-skill/
    * https://hbr.org/2007/07/the-making-of-an-expert
    
-* Eyes
-   * f.lux to limit blue light
-   * low brightness
-   * You can also get cheap blue light reducing glasses
-   
 * Touch Typing
    * https://www.how-to-type.com/
    * You are going to spend a lot of time in front of a computer, this will seriously change your life
    
+## General Wellness
+
+* Hydrate Constantly
+   * My life motto is "Stay Happy and Stay Hydrated", and it is inscribed in my class ring... so yeah, I take hydration seriously. 
+   * Read this: https://www.webmd.com/food-recipes/features/quest-for-hydration#1
+   
+
 * Mental Health
    * The hacker community has a significant amount of mental health concerns above the general norm. The more you know about these concerns and their symptoms, the better you can understand them. Additionally, everyone needs more general suicide prevention and depression training. It's not fun but it is worth having all the resources you can. The Midshipmen Development Center counselors are amazing and are shockingly good at keeping your business private. Always remember that they have to report things, but the system is structured in a way that it will not effect your commission if you can get results with them. 
    
