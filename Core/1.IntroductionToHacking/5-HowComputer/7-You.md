@@ -15,8 +15,9 @@ What, you thought it's all about technical stuff? Hell no! Most of this comes do
    
 * Hydrate Constantly
 
-* Breaks
-   * Figure out what works with you but the Pomodoro method works great for a lot of folk. Don't sit too long... but don't lose concentration during your breaks. Recommended is to look at something in the distance and chill out for a bit.
+* Productivity Methods
+   * Give the Pomodoro technique a try: https://lifehacker.com/productivity-101-a-primer-to-the-pomodoro-technique-1598992730
+   * It orks great for a lot of folk. Don't sit too long... but don't lose concentration during your breaks. Recommended is to look at something in the distance and chill out for a bit.
    
 * Deep Work
    * https://azeria-labs.com/the-importance-of-deep-work-the-30-hour-method-for-learning-a-new-skill/ Azeria wrote some great stuff on this. 
@@ -27,27 +28,20 @@ What, you thought it's all about technical stuff? Hell no! Most of this comes do
 * Eyes
    * f.lux to limit blue light
    * low brightness
-   * Blue light reducing glasses are highly recommended
-   
+   * You can also get cheap blue light reducing glasses
    
 * Touch Typing
    * https://www.how-to-type.com/
-   * Seriously will change your life
+   * You are going to spend a lot of time in front of a computer, this will seriously change your life
    
-* Music
- Good music sets the tone for programming, learning, and just feeling in the mood.
- 
- Science tells us pretty consistently that lyrics result in decreased performance. That is why the majority of people recommend instrumentals or techo music, but there is also a significant amount of foreign language music, specifically asian pop. 
- 
- Great sites are:
- * http://musicforprogramming.net/?one
- * https://somafm.com/ is a classic hacker music site, with Groove Salad as a long time standout https://somafm.com/groovesalad/
- * https://www.programmersmusic.com/
- * https://8tracks.com/explore/hacking
- 
-
- Glitch Mob
- Chiptune
- Aphex Twin
- K-Pop, A-Pop, J-Pop
+* Mental Health
+   * The hacker community has a significant amount of mental health concerns above the general norm. The more you know about these concerns and their symptoms, the better you can understand them. Additionally, everyone needs more general suicide prevention and depression training. It's not fun but it is worth having all the resources you can. The Midshipmen Development Center counselors are amazing and are shockingly good at keeping your business private. Always remember that they have to report things, but the system is structured in a way that it will not effect your commission if you can get results with them. 
+   
+Read these: 
+* https://www.nimh.nih.gov/health/topics/autism-spectrum-disorders-asd/index.shtml
+* https://www.helpguide.org/articles/add-adhd/adhd-attention-deficit-disorder-in-adults.htm
+* https://www.nimh.nih.gov/health/topics/depression/index.shtml
+* https://www.nimh.nih.gov/health/topics/suicide-prevention/index.shtml
+* https://www.usna.edu/MDC/Resources/links.php
+* https://www.usna.edu/MDC/Online-Self-Help.php
   
