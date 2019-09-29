@@ -1,30 +1,47 @@
-"[The Internet] is not a truck. It's a series of tubes."
+## "[The Internet] is not a truck. It's a series of tubes."
+
+### History Lessons
+Read all of this.
 * http://www.internetsociety.org/internet/what-internet/history-internet/brief-history-internet
 * https://web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm
 * http://www.zakon.org/robert/internet/timeline/
 
-* https://medium.com/@maneesha.wijesinghe1/what-happens-when-you-type-an-url-in-the-browser-and-press-enter-bb0aa2449c1a
 
+### How it All Works Together
+* Internet Hosting providers  
+   * https://en.wikipedia.org/wiki/Web_hosting_service
+   * Get IP of Domain Name https://mxtoolbox.com/DNSLookup.aspx
+   * Get Domain of IP https://mxtoolbox.com/ReverseLookup.aspx
+   * Find owner of IP address https://mxtoolbox.com/arin.aspx
+  
+* Domain Registrars
+   * https://en.wikipedia.org/wiki/Domain_name_registrar
+   * https://en.wikipedia.org/wiki/DNS_hosting_service
+   * http://whois.domaintools.com/
+   * https://www.interserver.net/tips/kb/whois-lookup-explained/
+   * What is a registrar?
+   
+* Internet Routing 
+   * https://web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm
+   * https://medium.com/@User3141592/how-does-the-internet-work-edc2e22e7eb8
+   
+### The Internet
 
-* DNS stuff, direct ip 
-
-* What is the path of a website load 
-
-* How do websites work? 
-* How do web apps work? 
-* Client side/ server side
-
-
-* whois, stuff like that
-* Technical Architecture
-* Information Architecture
-* Wireshark stuff
-* Internet Hosting providers   
-* Internet Routing providers
-* Domain Name Server
-
+* How does the internet work?
+   * https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works
+   * https://medium.com/@maneesha.wijesinghe1/what-happens-when-you-type-an-url-in-the-browser-and-press-enter-bb0aa2449c1a
+   * What is the difference between client side and server side? 
 * How do websites work?
-    * Read and do all of this: https://developer.mozilla.org/en-US/docs/Learn
+    * Read and do all of this: https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web
+* How do web apps work? 
+    * https://www.lifewire.com/what-is-a-web-application-3486637
+* Learn about common error codes! 
+	* https://www.digitalocean.com/community/tutorials/how-to-troubleshoot-common-http-error-codes
+	* What is a 404 response?
+
+
+# Wireshark the Internet
+* Wireshark stuff
 
 
 # Become a Chrome power user
@@ -61,17 +78,18 @@
         * Read this: https://en.wikipedia.org/wiki/Leet
            * A few things were mentioned here that wind up being important in internet culture. First is BBS, or Bulletin Board Systems. In the early days of dial up internet, BBSs were where the hacking happened. The second notable mention is of the Cult of the Dead Cow, an early internet group that were known for hacktivism, as well as other various online activities. They pop up all the time and were an important part in shaping internet culture.
      
-    * Wayback Machine and the Internet Archive
+* Wayback Machine and the Internet Archive
+	* https://archive.org/about/
+	* The Wayback Machine!!!!! 
+	  * https://archive.org/web/
+	     * and the accompanying Chrome Extension that automatically checks 404'd pages for an archived copy https://chrome.google.com/webstore/detail/wayback-machine/fpnmgdkabkmnadcjpehmlllkndpkmiak?hl=en-US
+	* https://archive.org/projects/
       
-# Tracking
-     * A famous quote about the internet is “If a service is free, the product is you”. this applies from social media to news sites to free antivirus. Silicon Valley is built on advertising money, and they make their money targeting advertisements. The more targeted, the more money they can charge. It isn't always advertisments though. Anything can be  turned into a dataset from pictures of your face, your conversations, any behavioral feature, or things like what you buy and what malware you download.
+### Tracking
+* A famous quote about the internet is “If a service is free, the product is you”. this applies from social media to news sites to free antivirus. Silicon Valley is built on advertising money, and they make their money targeting advertisements. The more targeted, the more money they can charge. It isn't always advertisments though. Anything can be  turned into a dataset from pictures of your face, your conversations, any behavioral feature, or things like what you buy and what malware you download.
      * Read how it works:
         * https://www.newfangled.com/if-they-are-watching-should-you-watch-too/
         * Describe one potential abuse of tracking and one benefit of tracking in 2-3 sentences. 
-
-   
-    
-# Ad-Blocking
     * https://lifehacker.com/5649025/why-you-should-use-adblock-plus-even-if-you-dont-block-ads
         * Describe three benefits of ad-blocking
     * There are many adblockers, not all of them are created equal. Use this one.
