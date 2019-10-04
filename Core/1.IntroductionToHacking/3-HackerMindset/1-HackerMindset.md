@@ -51,7 +51,7 @@ Write a few sentences on what matters in the hacker ethic.
 
 ## Sharing
 
-One of the key parts of this mindset is sharing knowledge with others. A great quote on the subject is 'There is _nothing noble_ in _being superior_ to your fellow man; true nobility is _being superior_ to your former self.'  Not to mention, the more you give back to the community, the greater the value you provide. If you're just starting off, you might not think you have anything to provide, but in fact, you're looking at the world with a different perspective than someone who has done it for years. For example, you can provide feedback on when training makes no sense or isn't as effective as it could be, and help make it easier for the next person to go through it. This site is a work in progress and the more feedback we receive the better it will be.  
+One of the key parts of this mindset is sharing knowledge with others. A great quote on the subject is 'There is nothing noble in being superior to your fellow man; true nobility is being superior to your former self.'  Not to mention, the more you give back to the community, the greater the value you provide. If you're just starting off, you might not think you have anything to provide, but in fact, you're looking at the world with a different perspective than someone who has done it for years. For example, you can provide feedback on when training makes no sense or isn't as effective as it could be, and help make it easier for the next person to go through it. This site is a work in progress and the more feedback we receive the better it will be.  
 
 With that said, you're definitely going to have questions. There are nearly infinite resources out there, and it is rare that you wind up doing something no one has ever done before. If you think you are there, message someone or make a post in the forum so we can all look for resources, and congratulations. Before that you have google and people here to help you, and we will always try to help in any way that we can. One of the worst things about hacker culture is this idea that someone should “Read the Fucking Manual” or “RTFM”. The first recorded use of this was in a user manual for some program in 1979, so it goes way back. On first glance, RTFM is a great response for any question that should have been answered by a casual glance at the manual. The problem with this idea is that a large body of knowledge is usually required to understand the manual, and even before that, you need to know the manual exists. If you are taking this course, there is no possible way you can be expected to understand a manual because you are just getting started. The most common "manual" you will come across in this course and your travels through hackerdom are the man-pages that accompany every single aspect of the Unix operating system, and they are a great resource for people who have spent years learning how to understand them. Right now, you don’t have the knowledge to be expected to understand how they work, and that is fine. There is no pressure to know anything, but there is pressure to learn. 
 
@@ -91,19 +91,3 @@ As we said before, hacking is a mindset, not a skillset. Sure you'll pick up ple
 
 
 * Note: This probably is not legally binding. 
-
-## Continuous Learning 
-
-Learning this stuff isn't easy. The content is difficult, the scope of what there is to learn is tremendous, and the rate of innovation and change in this space makes keeping up seemingly impossible. If you are thinking right now that you'll never learn everything; you're right! There is an infinite amount to learn, so choose the stuff that interests you and learn that. This course is intended to give you a general base of knowledge so that you can succeed with anything you do, but if you want to be great you have to love what you're doing and keep getting after it. For the rest of your time computering, maintain a series of lists. I recommend a Google Sheets file with a bunch of tabs. These are just a few we recommend, I'm sure you'll make more.
-* Questions you don't know the search terms for 
-* Questions that google can't answer 
-* Things you want to learn how to do 
-* Things you want to learn more about 
-* Things you want to make or help make 
-* Things you want to tell other people about or write about 
-* Potential future reading material 
-* Links to things you want to remember 
-
-We will do our absolute best to help you keep these lists short. There will be section in the forums for random questions, from ELI5 style to "Make me a tutorial", or you can always just private message it, or put it up in Slack. 
-
-Make a copy of ____ this file ___and keep it updated.
