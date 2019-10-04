@@ -10,19 +10,9 @@ You will spend a ton of time in front of a computer, at a minimum a couple hours
 
 
    
-## Productivity and Deep Work
 
-* Methods
-   * Give the Pomodoro technique a try: https://lifehacker.com/productivity-101-a-primer-to-the-pomodoro-technique-1598992730
-   * It works great for a lot of folk. There are tons of techniques for this, but the secret is you just need an established system to do it and it will be better than anything else you were making up as you go along... that can be applied to literally everything in this world. 
    
-* Deep Work
-   * https://azeria-labs.com/the-importance-of-deep-work-the-30-hour-method-for-learning-a-new-skill/ Azeria wrote some great stuff on this. 
-   * https://azeria-labs.com/paradox-of-choice/
-   * https://azeria-labs.com/the-process-of-mastering-a-skill/
-   * https://hbr.org/2007/07/the-making-of-an-expert
-   
-* Touch Typing
+## Touch Typing
   This is an investment in your productivity, the faster you can type, the better your life will be. 
 
 Submit a screenshot of the completion for this, and work to continue doing this for the rest of your damn life.
@@ -34,7 +24,8 @@ https://www.how-to-type.com/
 * Hydrate Constantly
    * My life motto is "Stay Happy and Stay Hydrated", and it is inscribed in my class ring... so yeah, I take hydration seriously. 
    * Read this: https://www.webmd.com/food-recipes/features/quest-for-hydration#1
-
+* Sleep
+   * Yeah this is important
 * Nutrition
    * I'm not going to make you read anything, just don't eat cheetos and hot pockets and drink monsters as your only sustinence for the day. Order in some chinese or Thai. Not every delivery meal has to be Pizza. 
    
