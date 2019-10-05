@@ -100,6 +100,11 @@ Read all of this.
        * https://www.ghostery.com/
        * https://disconnect.me/
 
-	       
-	       
-	
+	      
+## Search Engines and Tracking
+We just taught you about Google hacking, immediately followed by tracking. 
+Go to Google, search for "learn how to hack" and click on the Ghostery and UBlock symbols and look at how much tracking is going on at a single page.
+
+Now go to https://duckduckgo.com/ and search for "learn how to hack". Now click the Ghostery and UBlock extensions? You should notice a difference. 
+
+Duck Duck Go cares a lot about privacy. It doesn't have as good search results as Google, but they're not bad. Some people swear by it. Me, I don't really care about Google selling my soul for better advertising. Sorry internet purists. Use Duck Duck Go if you want to be more private, as well as any time Google's algorithms decide that the thing you are searching for is wrong and you should be searching for some slightly related topic that is in the news at the time and shares search terms. 
