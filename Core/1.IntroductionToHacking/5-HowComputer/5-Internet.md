@@ -39,11 +39,6 @@ Read all of this.
 	* https://www.digitalocean.com/community/tutorials/how-to-troubleshoot-common-http-error-codes
 	* What is a 404 response?
 
-
-# Wireshark the Internet
-* Wireshark stuff
-
-
 # Become a Chrome power user
 * Keyboard Shortcuts
  * http://www.makeuseof.com/tag/how-to-become-a-chrome-power-user-part-1-master-the-keyboard/
@@ -108,3 +103,40 @@ Go to Google, search for "learn how to hack" and click on the Ghostery and UBloc
 Now go to https://duckduckgo.com/ and search for "learn how to hack". Now click the Ghostery and UBlock extensions? You should notice a difference. 
 
 Duck Duck Go cares a lot about privacy. It doesn't have as good search results as Google, but they're not bad. Some people swear by it. Me, I don't really care about Google selling my soul for better advertising. Sorry internet purists. Use Duck Duck Go if you want to be more private, as well as any time Google's algorithms decide that the thing you are searching for is wrong and you should be searching for some slightly related topic that is in the news at the time and shares search terms. 
+
+
+
+## Wireshark the Internet
+* Making a Wireshark Tutorial is excessive... there should be a half hour introduction to Wireshark that is very tightly defined. 
+* Wireshark will get a ton more work in the Networking follow on course.
+
+### Wireshark Must Haves
+1. Live Capture
+   * Statistics
+      * Protocol Hierarchy
+      * Endpoints 
+      * Conversations
+      * I/O
+   * Filters
+   * Follow Streams
+   * Export Objects
+2. Open Old Capture #1
+   * Statistics
+      * Protocol Hierarchy
+      * Endpoints 
+      * Conversations
+      * I/O
+   * Filters
+   * Follow Streams
+   * Export Objects
+3. Old Capture #2
+   * Statistics
+      * Protocol Hierarchy
+      * Endpoints 
+      * Conversations
+      * I/O
+   * Filters
+   * Follow Streams
+   * Export Objects
+   
+   
