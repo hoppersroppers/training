@@ -2,7 +2,7 @@
 
 This is a very short section that we will make longer in the future, but for now, it'll do.
 
-Task: 
+Task:
 
 For each of these items, define what they are and how they relate to security.
 
@@ -18,9 +18,9 @@ For each of these items, define what they are and how they relate to security.
 * Domain Controller
 
 # Domains of Attack
-There are a lot of ways for you to get hacked, so there is no way we can go over them all. 
+There are a lot of ways for you to get hacked, so there is no way we can go over them all.
 
-But, we can go over good ways to think about this. 
+But, we can go over good ways to think about this.
 
 This site goes over where all your vulnerabilities lie.
 
@@ -33,7 +33,7 @@ This site goes over where all your vulnerabilities lie.
 * Physical Security
 * Hardware
 
-Tasks: 
+Tasks:
 
 1. For each of the domains of attack, describe in a few sentences what they are and how you can be attacked through them.
 2. Describe what "attack surface" means to you.
@@ -48,25 +48,25 @@ Now we can think about how you get attacked in those domains in terms of attack 
 
 List of Attack Mechanisms:
 
-* Collect and Analyze Information 
-* Inject Unexpected Items 
-* Engage in Deceptive Interactions 
+* Collect and Analyze Information
+* Inject Unexpected Items
+* Engage in Deceptive Interactions
 * Manipulate Timing and State
 * Abuse Existing Functionality
-* Employ Probabilistic Techniques 
-* Subvert Access Control 
-* Manipulate Data Structures 
-* Manipulate System Resources 
+* Employ Probabilistic Techniques
+* Subvert Access Control
+* Manipulate Data Structures
+* Manipulate System Resources
 
-Task: 
+Task:
 
-For each attack mechanism, describe in two sentences what the thing being attacked is and how they generally work. This is going to take some research, but shouldn't take all that long. You can click to expand to learn more about each type of attack. 
+For each attack mechanism, describe in two sentences what the thing being attacked is and how they generally work. This is going to take some research, but shouldn't take all that long. You can click to expand to learn more about each type of attack.
 
 # Attack Methods
 
-Building off of domains of attack, and mechanisms of attack, MITRE also created an unbelievable resource that provides a way of looking at how those mechanisms are applied to the various domains of attack. Unsurprisingly, it is called ATT&CK (Adversarial Tactics, Techniques, and Common Knowledge). This is the real world, practical application of these theories and it lists out the many many many ways that bad guys get in. 
+Building off of domains of attack, and mechanisms of attack, MITRE also created an unbelievable resource that provides a way of looking at how those mechanisms are applied to the various domains of attack. Unsurprisingly, it is called ATT&CK (Adversarial Tactics, Techniques, and Common Knowledge). This is the real world, practical application of these theories and it lists out the many many many ways that bad guys get in.
 
-https://attack.mitre.org/wiki/Main_Page
+<https://attack.mitre.org/wiki/Main_Page>
 
 This resource will take a prohibitively long time to go through, and honestly deserves its own course. But if you don't know what each of the items described in it means, you will be hurting in the long term.
 
@@ -74,7 +74,7 @@ We are going to have you read through all of this to help your brain understand 
 
 Tasks:
 
-1. For the items in Initial Access, write one sentence summarizing how the attack works. 
+1. For the items in Initial Access, write one sentence summarizing how the attack works.
 2. Execution has a lot of complicated things that do not require understanding yet. For now, just write one sentence for the following items:
 * Exploitation for Client Execution
 * Service Execution
@@ -83,9 +83,9 @@ Tasks:
 * Operating System Execution (this isn't either)
 
 3. Read through Persistence, but don't worry about understanding most of it. There's a lot of useful technical things in there, but this will help you see words and just familiarize yourself with it.
-4. Same with Privilege Escalation, Defense Evasion, Credential Access, Discovery, Lateral Movement, Collection, Exfiltration, Command and Control.... this requires more work... but really just read it and ignore the things that don't make sense. It's good practice. 
+4. Same with Privilege Escalation, Defense Evasion, Credential Access, Discovery, Lateral Movement, Collection, Exfiltration, Command and Control.... this requires more work... but really just read it and ignore the things that don't make sense. It's good practice.
 
-Skip Pre-Attack for now. (https://attack.mitre.org/pre-attack/index.php/Main_Page) It requires its own stuff, lot of work to do.
+Skip Pre-Attack for now. <https://attack.mitre.org/pre-attack/index.php/Main_Page> It requires its own stuff, lot of work to do.
 
 # Penetration Testing
 
@@ -131,7 +131,7 @@ Ask questions as well!!
 
 # Web Application Pen Test
 
-Same poster, learn about a sample web app pen test. 
+Same poster, learn about a sample web app pen test.
 
 Read this: https://www.sans.org/security-resources/posters/pen-test-attack-surfaces-tools-techniques/70/download
 
@@ -142,4 +142,3 @@ Task:
 In your own words, describe what happened so the Supe can understand. This one is hard, but fun.
 
 Again, ask questions!
-
