@@ -1,6 +1,7 @@
 We have learned about learning and the hacker mindset, and have begun to learn about Linux and set up our new virtual machine. You finished Bandit, and should feel fairly comfortable reading something technical, taking that new information, and then immediately applying it to solve a problem. But now we are at the most important and difficult part of the course, how computers work. Without an in depth understanding of how computers work from a fundamental level, you will not have the low level knowledge required to understand things as they occur. As you read a news article, watch a presentation, or find a new CTF problem, you need the ability to recognize patterns and have the baseline knowledge required to immediately know what is going on.
 
 That doesn't mean you will understand everything, the point is to build your baseline so that you can constantly have a wide breadth of knowledge to draw from. Depth of knowledge will be learned in follow on courses and your own personal path. With a strong base, you will minimize the time you spend backtracking and relearning things, as well as minimize the time required to learn new concepts. Right now, this is your time to rabbit hole and spend some time so you know enough information to move forward and not worry about having to learn fundamental concepts as you go.
+
 ### History of Computers
 
    * Read this: <https://www.explainthatstuff.com/historyofcomputers.html>
@@ -146,3 +147,31 @@ Watch this: <https://www.youtube.com/watch?v=IhC7sdYe-Jg>
 Some day, you will probably write a compiler so all of the things you just learned about makes more sense to you. Or you can not. I did it once. Didn't get as much out of it as people told me I would.
 
 What we went over was just the absolute basics of computer hardware. I did not spend any time on Machine Code and Assembly, and you will get destroyed by it the first time you see it. My recommendation, avoid anything involving machine or assembly code until after you have spent some dedicated time on the subject. This means, don't try to jump into any Reverse Engineering problems, for now.
+
+## Memory
+Memory... where do we start. Few things are harder to wrap our heads around how it all works. This course does not pretend it will teach you everything you will need to know about memory, this is just giving you the tools you need to continue learning. With that said, pay attention here, and refer back to help understand things.
+
+* <https://www.tutorialspoint.com/computer_fundamentals/computer_memory.htm>
+
+1. What makes up primary memory and what is it used for?
+2. What is secondary memory and what is it used for?
+3. What do we need a cache for?
+
+* <https://www.tutorialspoint.com/computer_fundamentals/computer_ram.htm>
+
+1. What does RAM stand for?
+2. What makes RAM volatile?
+3. What happens when a computer is turned off?
+4. Read about a cold boot attack... how does that work? <https://arstechnica.com/gadgets/2018/09/cold-boot-attacks-given-new-life-with-firmware-attack/>
+
+Plenty of cyber security purists will lose their mind if I do not acknowledge the existence of virtual memory and "the stack" during the section regarding memory. "The stack" is the region of memory, in RAM, where data is added and removed by processes. That is all you are going to learn in this course. All binary exploitation is dependent on in depth knowledge of "the stack"... and you won't be doing any binary exploitation during this course. Don't worry about it, soon you'll be "Smashing the Stack for Fun and Profit", but for now, you need to learn what an operating system does for you.
+
+* Read this... I probably need a better resource but nobody makes short guides to this... because it is complicated as hell. <https://www.allaboutcircuits.com/technical-articles/what-is-virtual-memory/>
+* Read this down to the Examples: <https://www.geeksforgeeks.org/memory-layout-of-c-program/>
+
+1. What is the stack?
+2. What is the heap?
+3. What does memory allocation mean?
+4. Where is memory allocated?
+5. What does memory de-allocation mean?
+6. What happens when memory is de-allocated?
