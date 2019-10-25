@@ -10,13 +10,14 @@ What, you thought we were too cool for plebe cyber? Absolutely not, parts of tha
 5. What are the four principles of ORM?
 6. What are the three levels of ORM?
 
-Another, and more useful risk equation is Risk = (Threat x Vulnerability) Asset Value
+Another, and slightly more useful risk equation is Risk = (Threat x Vulnerability) Asset Value
+Who really cares about which equation or mental models you use, the important thing is that it gives you something to work off of and attempt to measure.
 
 So let's work through it again.
 1. What is a threat?
 2. What is a vulnerability?
 3. How do we define asset value?
-4. What is the value added of the the second risk equation?
+4. What is the value added of the second risk equation?
 5. Ignoring the equations, how do you define risk?
 
 ## Threat Modeling
@@ -46,7 +47,7 @@ One important note is that you might not have anything worth a targeted attack p
 
 
 ## Risk Assessment
-A huge part of this training is providing you with the mental models required to think about security. By providing the general framework, you can fill in the gaps, or at least start working towards filling the gaps. But sometimes, mental models just don't cut it. You need something on paper, written in blood, that will help you do what you need to do in order to be successful. Risk assesment models give organizations a way to identify problems and address them in a quantitiative and structured manner. There are a ton of them out in the wild, but the most important one for most people is NIST (National Institute of Standards and Technology). This is the general framework that all DoD and .gov sites adhere to. There are other specific frameworks like ISO27001, CIS Critical Security Controls, HIPAA (health data), PCI DSS (credit cards and banking), and countless others but those don't matter much to you other than knowing they exist. A good knowledge of NIST will get you most of the way there.
+A huge part of this training is providing you with the mental models required to think about security. By providing the general framework, you can fill in the gaps, or at least start working towards filling the gaps. But sometimes, mental models just don't cut it. You need something on paper, written in blood, that will help you do what you need to do in order to be successful. Risk assesment models give organizations a way to identify problems and address them in a quantitative and structured manner. There are a ton of them out in the wild, but the most important one for most people is NIST (National Institute of Standards and Technology). This is the general framework that all DoD and .gov sites adhere to. There are other specific frameworks like ISO27001, CIS Critical Security Controls, HIPAA (health data), PCI DSS (credit cards and banking), and countless others but those don't matter much to you other than knowing they exist. A good knowledge of NIST will get you most of the way there.
 
 Tasks:
 1. So many things to do here.

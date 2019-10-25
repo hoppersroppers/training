@@ -30,6 +30,7 @@ Networking is the darkest art... and you may become an expert. Eventually. But a
 3. How does it work?
 
 ### Wireshark:
+<UNFUCKTHIS>
  * Work through the NewBoston Wireshark tutorial. No need to watch all of it, or at regular speed. Try 1.5 speed (or 2x) and bounce around to learn as much as you can.
     * <https://www.youtube.com/watch?v=flDzURAm8wQ&list=PL6gx4Cwl9DGBI2ZFuyZOl5Q7sptR7PwYN>
 

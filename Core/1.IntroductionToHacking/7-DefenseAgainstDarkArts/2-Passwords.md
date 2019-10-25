@@ -4,6 +4,7 @@
 Passwords are hard, and losing your primary email can pretty much stop your life as you attempt to regain control. Luckily, there is a lot you can do to keep yourself from becoming the low hanging fruit. After this section, not only will you be able to protect yourself, but you’ll be able to share this with others.
 
 Tasks:
+
 1. Read this: <https://www.passwordanalytics.com/theory/passwords/>
 2. Read Passwords 101 and submit one example each of the three ways you authenticate yourself.
 3. Read Good Passwords 101 and submit a description of what makes a good password
@@ -15,6 +16,49 @@ Tasks:
 9. <https://xkcd.com/936/>
 
 Here is a brief experiment for you to try. Try to make a rough guess how many web sites you use on a regular basis use your primary email as their account recovery address. Now, try to think about which of those sites are the most important to you that they remain secure; social media, banking, other email accounts. Now think of the sketchy sites you reuse the same password on. If those sketchy sites are breached, and the attacker gets your password, they can try it against your email. If they get your email, they can use it to take your other accounts.
+
+### Security Questions and Password Resets
+
+What is your mother’s maiden name? First dog? Elementary school? All of those things are fairly easy to find online, or just from casual conversation. If someone is trying to steal an account, that will always be the easiest route. Security questions are hard to avoid, but there are easy ways to harden yourself and protect your accounts.
+
+Tasks:
+* Read this: <https://www.wired.com/2016/09/time-kill-security-questions-answer-lies/>
+* Submit what the article recommends you do
+
+Luckily, there is a better way. Instead of forcing you to lie, we are going to introduce you to the ideas of hashing and salting.
+
+### Hashing and Salting
+* Read this: <https://crackstation.net/hashing-security.htm>. Not all of it, unless you really want to, just enough to answer these questions.
+
+Tasks:
+
+1. In 2-3 sentences explain hashing and why it is important
+2. Describe each of the ways passwords are cracked
+3. In 2-3 sentences, explain what salting does and why it is important.
+
+Combining the ideas of salting and hashing, now learn how you are going to make secure security questions! First, as a rule, don't use uppercase letters, spaces, or punctuation ever in your security questions. Why? Nothing about security, it just makes them easier to remember. Then if we take a hashing algorithm, like MD5, and a unique salt, such as “salty17”, we can use the function MD5(_answer_to_question_ + “salty17”). This will create a very very hard to figure out security question that you can easily use anywhere.
+
+Or, if you are on a computer with your password manager, just write that shit down in your secure notes for a site. If they get your lastpass account you are screwed anyway, so don't worry about it.
+
+# L0phtcrack tangent
+* <http://www.washingtonpost.com/sf/business/2015/06/22/net-of-insecurity-part-3/?utm_term=.ea6927af0bd7>
+* en.wikipedia.org/wiki/L0pht
+* Responsible Hacking
+
+
+# You Used a Common Password
+
+Even if you are using a better password, if you are using a common password, there is a good chance of your account just getting bruteforced!
+When large sites get dumped and the passwords aren't hashed, that returns a giant password list that bad guys can use to hack other people's accounts. The canonical password list is from the RockYou hack <https://www.theregister.co.uk/2010/01/21/lame_passwords_exposed_by_rockyou_hack/>.
+
+Since then there have been plenty more hacks and they are included in password lists scattered throughout the internet. There a couple here <https://github.com/danielmiessler/SecLists/tree/master/Passwords/Common-Credentials>. To use them, you point a tool at the list and at the login form, and then try all passwords against it.
+
+When an attacker has stolen a list of hashes, they must run a hash cracker against it. Read this: <https://keepersecurity.com/blog/2016/09/28/how-password-crackers-work/>
+
+Finally, and perhaps the most common cause of hacking due to bad password use, is not changing default passwords upon installation. Whether it is default passwords for major web apps allowing remote access <https://github.com/danielmiessler/SecLists/tree/master/Passwords/Default-Credentials>, IoT <https://www.theregister.co.uk/2019/06/18/iot_default_security/> resulting in massive botnets <https://www.csoonline.com/article/3258748/the-mirai-botnet-explained-how-teen-scammers-and-cctv-cameras-almost-brought-down-the-internet.html> or Wifi Routers <https://proprivacy.com/guides/default-router-login-details>. If an attacker's first move when trying to gain access isn't immediately test default passwords, specifically, "admin:admin", they are doing themselves a disservice.
+
+So to test if you are using a password that has ever been leaked before, there is a site that allows you to check by Troy Hunt, the same person who built HaveIBeenPwned. Read his explanation of how the site is safe for you to enter your password into <https://www.troyhunt.com/ive-just-launched-pwned-passwords-version-2/#cloudflareprivacyandkanonymity>. Then you can, if you want to, enter a password or even your password into his site to check if it has ever been leaked before. <https://haveibeenpwned.com/Passwords>.
+
 
 
 ### Password Managers
@@ -50,7 +94,7 @@ Tasks:
 
 You could probably get a couple, and then set it up with <https://landing.google.com/advancedprotection/>. Or not. You probably don't need it. My philosophy is I can't properly tell people to do things for their security if I don't do it myself and understand the pain points.
 
-A brief note: Cell phone text messagesaka SMS are commonly used for multifactor auth. These are not great, because
+A brief note: Cell phone text messages aka SMS are commonly used for multifactor auth. These are not great, because
 a) someone can steal your phone number and get the texts sent to them  (https://www.wired.com/story/sim-swap-attack-defend-phone/)
 b) intercept of text messages (https://www.theguardian.com/technology/2016/apr/19/ss7-hack-explained-mobile-phone-vulnerability-snooping-texts-calls)
 
@@ -58,32 +102,6 @@ However, those things are not in your threat model unless you are famous or have
 
 Another note: Just because you have 2 factor doesn't mean you can't get phished for it!
 
-### Security Questions and Password Resets
-
-What is your mother’s maiden name? First dog? Elementary school? All of those things are fairly easy to find online, or just from casual conversation. If someone is trying to steal an account, that will always be the easiest route. Security questions are hard to avoid, but there are easy ways to harden yourself and protect your accounts.
-
-Tasks:
-* Read this: <https://www.wired.com/2016/09/time-kill-security-questions-answer-lies/>
-* Submit what the article recommends you do
-
-Luckily, there is a better way. Instead of forcing you to lie, we are going to introduce you to the ideas of hashing and salting.
-
-### Hashing and Salting
-
-Tasks:
-* Read this: <https://crackstation.net/hashing-security.htm>. Not all of it, unless you really want to, just enough to answer these questions.
-* In 2-3 sentences explain hashing and why it is important
-* Describe each of the ways passwords are cracked
-* In 2-3 sentences, explain what salting does and why it is important.
-
-Combining the ideas of salting and hashing, now learn how you are going to make secure security questions! First, as a rule, don't use uppercase letters, spaces, or punctuation ever in your security questions. Why? Nothing about security, it just makes them easier to remember. Then if we take a hashing algorithm, like MD5, and a unique salt, such as “salty17”, we can use the function MD5(_answer_to_question_ + “salty17”). This will create a very very hard to figure out security question that you can easily use anywhere.
-
-Or, if you are on a computer with your password manager, just write that shit down in your secure notes for a site. If they get your lastpass account you are screwed anyway, so don't worry about it.
-
-# L0phtcrack tangent
-* <http://www.washingtonpost.com/sf/business/2015/06/22/net-of-insecurity-part-3/?utm_term=.ea6927af0bd7>
-* en.wikipedia.org/wiki/L0pht
-* Responsible Hacking
 
 # You Got Phished For Your Password
 
@@ -96,12 +114,3 @@ There is more information on this you have already gotten.
 Tasks:
 * Read this: <https://haveibeenpwned.com/FAQs>
 * Sign up for haveIbeenpwned with all of your emails, especially older ones
-
-# Default Passwords
-
-There are a lot of default passwords out there in the world. You can use them to get free wifi, but the bad guys can use them too.
-
-Routers, Internet of Things devices, and web applications are common victims of default passwords.
-If you have the ability to change the password, change the password. If you don't change the defaults, you are begging to get added to a botnet, or worse.
-
-If you ever install an application and it has a default password, changwe that shit.
