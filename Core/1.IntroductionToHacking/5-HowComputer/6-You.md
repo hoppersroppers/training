@@ -11,7 +11,8 @@ You will spend a ton of time in front of a computer, at a minimum a couple hours
 * It is also an option to get blue light filtering glasses, they should be pretty cheap (>$30). I swear by mine, but hey, whatever, it keeps my eyes from hurting when I am about to spend 12 hours scrolling packet captures.
 
 ## Touch Typing
-This is an investment in your productivity, the faster you can type, the better your life will be. This goes for everything you will ever do on a computer.
+This is an investment in your productivity, the faster you can type, the better your life will be. This goes for everything you will ever do on a computer. I am so mad I am still learning how to do this. So many hours wasted.
+
 * <https://www.how-to-type.com/>
 1. Submit a screenshot of the completion for this, and work to continue doing this for the rest of your damn life.
 
@@ -41,6 +42,8 @@ This is an investment in your productivity, the faster you can type, the better 
   * <https://www.helpguide.org/articles/add-adhd/adhd-attention-deficit-disorder-in-adults.htm>
   * <https://www.nimh.nih.gov/health/topics/depression/index.shtml>
   * <https://www.nimh.nih.gov/health/topics/suicide-prevention/index.shtml>
+
+# Things I Might Add
 
 ## Life and Other Things
 * <FINDTHISPLZ> KALZMEUS

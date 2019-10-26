@@ -12,32 +12,35 @@ This is important. Try to really understand the breadth of what programming lang
    2. In your own words describe what a programming language is.
 
 ## Open Source
-You might have heard of Open Source before, as there has been an infinite amount written about the subject, but this is a good place to learn about it. Open source and hacking go hand in hand. You might not feel strongly about it now, but you will eventually.
-      * What is Open Source?
-         * <https://opensource.com/resources/what-open-source>
-      1. Explain what open source is
+   You might have heard of Open Source before, as there has been an infinite amount written about the subject, but this is a good place to learn about it. Open source and hacking go hand in hand. You might not feel strongly about it now, but you will eventually.
+
+   * What is Open Source? <https://opensource.com/resources/what-open-source>
+   1. Explain what open source is
 
 ## Github
-Github is an amazing website build around an old tool named 'git'. Git is used for version control during software development, allowing collaboration and the merging of changes in a safe and easy manner. It is used by just about everyone and is amazing. If you want to build large pieces of software, you need to use version control. Github is a website that wraps git and allows you to share your code via their website, as well as letting you download other people's code.
+   Github is an amazing website build around an old tool named 'git'. Git is used for version control during software development, allowing collaboration and the merging of changes in a safe and easy manner. It is used by just about everyone and is amazing. If you want to build large pieces of software, you need to use version control. Github is a website that wraps git and allows you to share your code via their website, as well as letting you download other people's code.
 
-   * Complete Git Hello World
-      * <https://lab.github.com/install>
-   * Watch this: <https://www.youtube.com/watch?v=w3jLJU7DT5E>
-   1. Complete <https://lab.github.com/jlind23/my-first-course>
-      * Send us a link to your Repo!
-   2. Complete <https://lab.github.com/githubtraining/uploading-your-project-to-github>
-      * Send us a link to your Repo!
-   3. Complete <https://lab.github.com/githubtraining/introduction-to-html>
-      * Send us a link to your site!
+      * Complete Git Hello World
+         * <https://lab.github.com/install>
+      * Watch this: <https://www.youtube.com/watch?v=w3jLJU7DT5E>
+      1. Complete <https://lab.github.com/jlind23/my-first-course>
+         * Send us a link to your Repo!
+      2. Complete <https://lab.github.com/githubtraining/uploading-your-project-to-github>
+         * Send us a link to your Repo!
+      3. Complete <https://lab.github.com/githubtraining/introduction-to-html>
+         * Send us a link to your site!
 
 ## Python
 There are hundreds of languages out there, but the language we are going to start with is Python. Python is a fairly simple and easy to learn language, but more importantly, is fast to write and allows advanced you to throw together scripts whenever you need them. There are a ton of great security references and plugins to the language and it allows you to accomplish just about anything you could need to do using just one language. In the future you will learn  plenty other languages, but for right now, Python will suffice.
+
+This is going to take a while, but Codeacademy Python is the best way I've found to learn a first programming language. It is all done in an online editor and will let you progress with the appropriate hints.
+
+Keep us updated in chat on your progress, we will be reaching out to you too. When you are done, submit a screenshot of your completion certificate!!
+
    * Complete Code Academy Python
       * <https://www.codecademy.com/learn/python>
-   1. Submit a screenshot of your completion!
 
 So you know a language now, right? Congratulations! The thing to remember is that all skills, if not used, will slowly atrophy. My recommendation is to constantly challenge yourself to maintain your skill level so when you have to write a program, you can whip something up immediately without having to relearn the syntax... or you can just ignore it completely and when the need arises, spend a half hour fumbling until you remember enough to get it working. Both of those are completely valid ways to maintain proficiency in a language. This course won't teach you any more languages, but if you continue in this pipeline you will learn C and some low level assembly.
-
 ### Windows
  You are a big bad programmer now, but it has all been done in your browser! Time to learn how to do it from the terminal on your computer(s). This might require some googling..... don't worry, that is literally how programming works. You find something you need to do, and google how to do it. Then you forget how to do it, and you go and google it again the next time you do it. The next bit will help you set up your python environment in your OS's. Setting up environments is very time consuming, no matter what it is, but you will have to do this for basically every language, and every version of each language, so you will have to get good at it.
 * <https://docs.python.org/3.3/using/windows.html>

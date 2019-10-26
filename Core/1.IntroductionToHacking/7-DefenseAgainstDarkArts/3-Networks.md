@@ -133,15 +133,16 @@ What is a man in the middle attack? You may have heard this before, and you'll h
 
 The general idea is that if Computer A tries to communicate with Computer C, but their conversation transits over Computer B, B is able to read and even alter the messages being sent. This can allow Computer B to impersonate both people to each other and have them each receive a totally incorrect message while never knowing that they are being listened in on. This was not a huge problem back in the '70s on ARPANET, but now, when there are dozens of hops between your computer and whatever website you visit, any of those could be intercepting your traffic (and mostly likely multiple are).
 
-Once again, the academy's piece on this is pretty damn good. Of course, we'll be going into this deeper later and you will do it yourself, but it's a good speed intro.
-
-<https://www.usna.edu/CyberDept/sy110/lec/cryptSymmEnc/lec.html>
+* <https://www.veracode.com/security/man-middle-attack>
+* <https://doubleoctopus.com/blog/the-ultimate-guide-to-man-in-the-middle-mitm-attacks-and-how-to-prevent-them/>
 
 Questions:
 1. Of CIA, what were the pillars that can be attacked if an adversary is able to do a man in the middle?
-2. In the Computer A,B and C scenario, what are the human names which match up to them?
-3. This one requires a google, but who is Mallory, and what makes her different from Eve?
-4. How does your browser protect you from MITM attacks? This will require a google.
+2. Describe how a MITM works, in your own words.
+3. What is SSL stripping?
+4. What is Man in the Browser?
+5. What is an Evil Twin attack?
+6. How does your browser protect you from MITM attacks? This will require a google.
 
 ## How to Be Safe on Public Wifi
 Public Wifi was, for a long time, the most dangerous thing to do other than use a public computer. With the rise of HTTPS it is less of a concern, but it is still important to protect yourself.

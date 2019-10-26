@@ -29,12 +29,7 @@ Networking is the darkest art... and you may become an expert. Eventually. But a
 2. Why does it exist?
 3. How does it work?
 
-### Wireshark:
-<UNFUCKTHIS>
- * Work through the NewBoston Wireshark tutorial. No need to watch all of it, or at regular speed. Try 1.5 speed (or 2x) and bounce around to learn as much as you can.
-    * <https://www.youtube.com/watch?v=flDzURAm8wQ&list=PL6gx4Cwl9DGBI2ZFuyZOl5Q7sptR7PwYN>
 
- I'm sorry. This deserves its own thing but I haven't made it yet.
 
 ### Cyber Aces
 When you finish a tutorial, screenshot it and submit.
@@ -48,6 +43,13 @@ When you finish a tutorial, screenshot it and submit.
 7. Layers 5 & 6 - Session and Presentation <https://tutorials.cyberaces.org/tutorials/view/2-7.html>
 8. Layer 7 - Application <https://tutorials.cyberaces.org/tutorials/view/2-8.html>
 9. Inter-Layer Communication & Conclusions <https://tutorials.cyberaces.org/tutorials/view/2-9.html>
+
+### Wireshark:
+<UNFUCKTHIS>
+ * Work through the NewBoston Wireshark tutorial. No need to watch all of it, or at regular speed. Try 1.5 speed (or 2x) and bounce around to learn as much as you can.
+    * <https://www.youtube.com/watch?v=flDzURAm8wQ&list=PL6gx4Cwl9DGBI2ZFuyZOl5Q7sptR7PwYN>
+
+ I'm sorry. This deserves its own thing but I haven't made it yet.
 
 ## RFCs
 RFCs or Request for Comments, is the way that the internet develops standards. Read this to learn more: <https://www.lifewire.com/what-is-internet-request-for-comments-rfc-4092366>

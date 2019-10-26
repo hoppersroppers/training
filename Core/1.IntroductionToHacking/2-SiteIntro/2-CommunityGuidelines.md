@@ -7,10 +7,10 @@ A Brief Note:
 
 Hacking, to most people means breaking into things, and that's not wrong really. While some people might try to claim that malicious hacking should be referred to as "cracking", the ship has sailed. We are going to be teaching you how to do cool things with computers, particularly in regards to security, and very often, that is going to overlap with teaching you how to break into things. We'll go more into ethics a little further on, but for now, remember what Uncle Ben said: "With great power, comes great responsitrilitrust".
 
-## Legal Stuff 
+## Legal Stuff
 Unsurprisingly, you will learn some things that could be used to do bad things. You might not think they're bad things at the time, and they might seem like funny pranks, but the laws against hacking are very vague. Even more importantly, there is a strong chance that at some point you will need to apply for a security clearance, and having a pile of felonies you have to admit to is not a great look and will complicate your paperwork.
 
-In the US, the law that surrounds this stuff is the Computer Fraud and Abuse Act. 
+In the US, the law that surrounds this stuff is the Computer Fraud and Abuse Act.
 
 Basically, all you need to know is that every computer is a protected computer and that it is a crime to intentionally access a computer without authorization or exceed authorized access.
 
@@ -18,7 +18,7 @@ Exceed authorized access is a real sticky subject, and it has led to a bunch of 
 
 To stay on the safe side, only access computers you own, or have written consent to access. You're lucky, because we have an entire network of training computers you can do whatever you want on. A lot of people don't, and that's where they get in trouble while trying to learn.  
 
-It should also be mentioned that copyright law is also a good way to get in trouble, not to mention that if you see software to pirate on the internet, it is very unlikely that it doesn't contain malware. Just don't steal things, we can almost always get a copy of whatever you want, it just might take some paperwork. 
+It should also be mentioned that copyright law is also a good way to get in trouble, not to mention that if you see software to pirate on the internet, it is very unlikely that it doesn't contain malware. Just don't steal things, we can almost always get a copy of whatever you want, it just might take some paperwork.
 
 
 ## Code of Conduct
@@ -61,7 +61,7 @@ Unwelcome sexual attention. This includes, sexualized comments or jokes; inappro
 Deliberate intimidation, stalking or following (online or in person).
 Advocating for, or encouraging, any of the above behavior.
 Sustained disruption of community events, including talks and presentations.
-Stealing any team or school equipment.
+Stealing any equipment.
 
 ### 5. Weapons Policy
 No weapons will be allowed at our events, community spaces, or in other spaces covered by the scope of this Code of Conduct. Weapons include but are not limited to guns, explosives (including fireworks), and large knives such as those used for hunting or display, as well as any other item used for the purpose of causing injury or harm to others. Anyone seen in possession of one of these items will be asked to leave immediately, and will only be allowed to return without the weapon. Community members are further expected to comply with all state and local laws on this matter.
@@ -74,11 +74,12 @@ Anyone asked to stop unacceptable behavior is expected to comply immediately.
 If a community member engages in unacceptable behavior, the community organizers may take any action they deem appropriate, up to and including a temporary ban or permanent expulsion from the community without warning (and without refund in the case of a paid event).
 
 ### 7. Reporting Guidelines
-If you are subject to or witness unacceptable behavior, or have any other concerns, notify a community organizer as soon as possible. All members of the community are expected to report any unacceptable behavior and take immediate action if reporting will not stop the behavior in time to avoid a negative outcome. 
+If you are subject to or witness unacceptable behavior, or have any other concerns, notify a community organizer as soon as possible. All members of the community are expected to report any unacceptable behavior and take immediate action if reporting will not stop the behavior in time to avoid a negative outcome.
 
 [LINK_TO_REPORTING_GUIDELINES]
+<FINDTHISPLZ>
 
-Additionally, community organizers are available to help community members engage with law enforcement and Academy staff, or to otherwise help those experiencing unacceptable behavior feel safe. In the context of in-person events, organizers will also provide escorts as desired by the person experiencing distress.
+Additionally, community organizers are available to help community members engage with law enforcement or to otherwise help those experiencing unacceptable behavior feel safe. In the context of in-person events, organizers will also provide escorts as desired by the person experiencing distress.
 
 ### 8. Addressing Grievances
 If you feel you have been falsely or unfairly accused of violating this Code of Conduct, you should notify the staff with a concise description of your grievance. Your grievance will be handled in accordance with our existing governing policies. [LINK_TO_POLICY]
@@ -88,14 +89,16 @@ If you feel you have been falsely or unfairly accused of violating this Code of 
 ### 9. Scope
 We expect all community participants (contributors, paid or otherwise; sponsors; and other guests) to abide by this Code of Conduct in all community venues–online and in-person–as well as in all one-on-one communications pertaining to community business.
 
-This code of conduct and its related procedures also applies to unacceptable behavior occuring outside the scope of community activities when such behavior has the potential to adversely affect the safety and well-being of community members.
+This code of conduct and its related procedures also applies to unacceptable behavior occurring outside the scope of community activities when such behavior has the potential to adversely affect the safety and well-being of community members.
 
 ### 10. Contact info
 [YOUR CONTACT INFO HERE — this should be a single person or a small team who can respond to issues directly]
+[LINK_TO_REPORTING_GUIDELINES]
+<FINDTHISPLZ>
 
 ### 11. License and attribution
 This is distributed under a Creative Commons Attribution-ShareAlike license.
-It is directly derived from the Citizen Code of Conduct. 
-Portions of text dervied from the Django Code of Conduct and the Geek Feminism Anti-Harassment Policy.
+It is directly derived from the Citizen Code of Conduct.
+Portions of text derived from the Django Code of Conduct and the Geek Feminism Anti-Harassment Policy.
 
-After reading our Code of Conduct, submit any recommendation or changes you would like to see in it. We will change anything here to make it more effective. 
+After reading our Code of Conduct, submit any recommendation or changes you would like to see in it. We will change anything here to make it more effective.

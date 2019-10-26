@@ -4,7 +4,7 @@ No, not that CIA.
 
 Read this: [https://resources.infosecinstitute.com/cia-triad/](https://resources.infosecinstitute.com/cia-triad/)
 
-CIA is a very important fundamental concept, make sure that you know it. The Academy teaches CIANA, with 2 dumb things at then end, it provides no value.
+CIA is a very important fundamental concept, make sure that you know it. Some places teach CIANA, with 2 dumb things at the end which provide no value.
 
 Task: For each pillar, submit the word, the definition, and a way that it applies to your email account.
 

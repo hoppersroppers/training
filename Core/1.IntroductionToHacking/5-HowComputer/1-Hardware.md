@@ -46,17 +46,20 @@ That doesn't mean you will understand everything, the point is to build your bas
 
 
 ## Telecommunication Basics
-   * Read all of this.
-   * <https://en.wikipedia.org/wiki/Telecommunication>
-         * <https://en.wikipedia.org/wiki/Naval_flag_signalling>
-         * <https://en.wikipedia.org/wiki/Flag_semaphore>
-         * <https://en.wikipedia.org/wiki/Morse_code>
-         * <https://en.wikipedia.org/wiki/ARPANET>
-         * <https://en.wikipedia.org/wiki/Packet_switching>
-   * If you haven't noticed yet, the military cares a lot about sending information.
+      * Read all of this.
+      * <https://en.wikipedia.org/wiki/Telecommunication>
+      * <https://en.wikipedia.org/wiki/Naval_flag_signalling>
+      * <https://en.wikipedia.org/wiki/Flag_semaphore>
+      * <https://en.wikipedia.org/wiki/Morse_code>
+      * <https://en.wikipedia.org/wiki/ARPANET>
+      * <https://en.wikipedia.org/wiki/Packet_switching>
+      * If you haven't noticed yet, the military cares a lot about sending information.
 
-   1. Write a brief bit about the importance of bits per second.
-   2. Write a couple sentences about what ARPANET was.
+      1. Write a brief bit about the importance of bits per second.
+      2. Write a couple sentences about what ARPANET was.
+
+
+## Representing Data
 
    * How do these ones and zeros work <https://learn.sparkfun.com/tutorials/binary>
    * Also hey, what is hex? <https://learn.sparkfun.com/tutorials/hexadecimal>
@@ -83,23 +86,24 @@ That doesn't mean you will understand everything, the point is to build your bas
 * Do the HW <https://www.usna.edu/Users/cs/wcbrown/courses/si110AY13S/lec/l02/hw/hw.pdf>
 1. Submit pictures of the HW.
 
-* It is annoying to do that by hand, but it does help. Here is a tool so that you never have to do that again. <https://gchq.github.io/CyberChef/. Fun fact, it is released by GCHQ, Britain's version of the NSA. Great tool and very useful. There are about a thousand uses for this thing, you can find a bunch on GitHub.>
+* It is annoying to do that by hand, but it does help. Here is a tool so that you never have to do that again. <https://gchq.github.io/CyberChef/>. Fun fact, it is released by GCHQ, Britain's version of the NSA. Great tool and very useful. There are about a thousand uses for this thing, you can find a bunch on GitHub.
 
 
 ## Digital Logic Basics
-   * <https://learn.sparkfun.com/tutorials/binary>
-   * Digital logic: <https://learn.sparkfun.com/tutorials/digital-logic>
-   * Read this one too:  <https://web.archive.org/web/20061008134026/http://www.facstaff.bucknell.edu:80/mastascu/eLessonsHTML/Logic/Logic1.html>
-   * And this: <https://www.explainthatstuff.com/logicgates.html>
+* <https://learn.sparkfun.com/tutorials/binary>
+* Digital logic: <https://learn.sparkfun.com/tutorials/digital-logic>
+* Read this one too:  <https://web.archive.org/web/20061008134026/>
+* <http://www.facstaff.bucknell.edu:80/mastascu/eLessonsHTML/Logic/Logic1.html>
+* And this: <https://www.explainthatstuff.com/logicgates.html>
 
-    1. How long is a bit? A nibble? A byte? A megabyte?
-    2. What is a bitwise operator? How do they work?
-    3. What is a bit shift? How does that work?
-    4. Explain how digital logic is an essential part of computing.
-    5. What are logic gates?
-    6. How do logic gates relate to bitwise operators?
+ 1. How long is a bit? A nibble? A byte? A megabyte?
+ 2. What is a bitwise operator? How do they work?
+ 3. What is a bit shift? How does that work?
+ 4. Explain how digital logic is an essential part of computing.
+ 5. What are logic gates?
+ 6. How do logic gates relate to bitwise operators?
 
-## History of Processing
+## Processing
    * <https://www.zzoomit.com/evolution-of-computer-processors/>
    * <https://www.techjunkie.com/a-cpu-history/>
    * <https://computer.howstuffworks.com/moores-law.htm>

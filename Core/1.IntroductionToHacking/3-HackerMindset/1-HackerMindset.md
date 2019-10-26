@@ -43,8 +43,8 @@ They come out to 5 key beliefs:
 
 1. Access to computers—and anything which might teach you something about the way the world works—should be unlimited and total. Always yield to the Hands-On Imperative!  
 2. All information should be free (Often a topic of debate, he means free as in speech, rather than free as in beer) 
-3. Mistrust authority—promote decentralization
-4. Hackers should be judged by their hacking, not bogus criteria such as degrees, age, race, or position.
+3.  Mistrust authority—promote decentralization
+4.  Hackers should be judged by their hacking, not bogus criteria such as degrees, age, race, or position.
 5. You can create art and beauty on a computer. The concept of "hack value" is doing something that is worth doing because of the "playful cleverness" required. 
 6.  Computers can change your life for the better
 
