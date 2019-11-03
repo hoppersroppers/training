@@ -57,6 +57,8 @@ Anytime something on this site doesn't seem to be matching up with our core tene
 # So What is ROP?
 All you need to know right now is that ROP is an advanced exploitation technique which beats advanced defenses by chaining together code which was already in a program. That definition is good enough for now, but if you stick around with us, soon enough you will know what it means and eventually you will be writing ROP chains of your own. The critical bit to understand is that you take snippets of existing code, chain it back together in a new order, and then use those to jump to where you need to go next. As you go through this course you will do the same thing, rearranging already learned information and skills to jump to new locations.
 
+Nothing in this course is spoonfed, and while we try to give you good resources, there are multiple parts in the course where we tell you to swing by yourself and go find out how to do something. We do this when we know there are plenty of other high quality resources out there for you to learn from and we want you to become comfortable being given no direction other than a couple searchterms and having to rely on your own knowledge and problem solving skills. 
+
 ## Content
 
 ![alt text](https://news.yale.edu/sites/default/files/styles/horizontal_image/public/d6_files/YaleNews_hopper-grace.UNIVAC.102635875-CC_0.jpg?itok=4HL3ETlO "img3")
