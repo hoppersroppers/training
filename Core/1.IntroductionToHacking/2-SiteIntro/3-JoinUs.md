@@ -5,9 +5,9 @@ Instant group messaging has been a cultural staple of the internet community sin
 
 Slack has become the messaging platform of choice, allowing group collaboration and real time chat along with various plug-ins and file hosting integration. We use it for many of feedback, support, as a forum, and as our primary instant messaging channel. At some point we might migrate to a self-hosted server, but for now, Slack is the easiest to work with.
 
-Join our channel at <https://usnacst.slack.com/ > <CHANGETOROCKETLAUNCHPLZ>> and post a hello!
+Join our channel at <https://launchpass.com/hoppersroppers> and post a hello!
 
- Choose a nickname, or what we call online, a "handle" for yourself. Don't worry about it too much, you will come up with something good eventually, and you are not stuck with whatever you start with. As a general rule, don't call yourself something like "Dark Shadow". Unless you want to. In that case, do that. I probably had a dozen or so before settling on my current one, 'deevnull'. I liked mine because it is a nerd joke (that will be explained about halfway through this course) and incorporates my last name.  Send me a message with a brief introduction to let me know you joined. We use Slack for just about everything from helping on problems, submitting feedback, or just talking about random things.
+Choose a nickname, or what we call online, a "handle" for yourself. Don't worry about it too much, you will come up with something good eventually, and you are not stuck with whatever you start with. As a general rule, don't call yourself something like "Dark Shadow". Unless you want to. In that case, do that. I probably had a dozen or so before settling on my current one, 'deevnull'. I liked mine because it is a nerd joke (that will be explained about halfway through this course) and incorporates my last name.  Send me a message with a brief introduction to let me know you joined. We use Slack for just about everything from helping on problems, submitting feedback, or just talking about random things.
 
 ## Mentors
 
