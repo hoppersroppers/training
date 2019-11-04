@@ -26,7 +26,7 @@ Unsurprisingly, information security Twitter is a very exciting place. In the mo
 ### Optional:
 Create a "professional" twitter account! Remember, this twitter will be able to be associated with you, even if you want to stay pseudo-anonymous. Always keep it fun and professional. Now subscribe to this list: <https://twitter.com/deevnull/lists/cst>. This list has been curated to only include must follows with a range of jobs that will provide insight into what is happening around the field.
 
-Submit your twitter handle below so we can follow you. Again, if you don't want to do Twitter yet, just skip it. It is mostly just a giant waste of time, but it is interesting and you learn a ton.
+Follow @HoppersRoppers on twitter so we can follow you. Again, if you don't want to do Twitter yet, just skip it. It is mostly just a giant waste of time, but it is interesting and you learn a ton.
 
 ## Github
 A major part of hacker culture is the idea of open source technology. What is open source? We will go into it later, but basically it is distributing software for free so that people can use and make changes in order to build the best software possible. GitHub is the modern center of the open source community, providing free hosting for millions of projects. In fact, almost the entire content of this site is on Github! A great deal of hacker street cred is based around the things you create and release to the public, and the best way to do that is on GitHub. In this course, we use Github to learn good development practices so that you can be a more effective coder.
