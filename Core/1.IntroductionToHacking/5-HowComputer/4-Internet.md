@@ -26,6 +26,8 @@ Read all of this.
       * Get IP of Domain Name <https://mxtoolbox.com/DNSLookup.aspx>
       * Get Domain of IP <https://mxtoolbox.com/ReverseLookup.aspx>
       * Find owner of IP address <https://mxtoolbox.com/arin.aspx>
+      
+ 3. Submit IP, then the domain of all IPs associated, and the owner. 
 
 * Domain Registrars
    * <https://en.wikipedia.org/wiki/Domain_name_registrar>
@@ -105,6 +107,15 @@ Read all of this.
 	     * and the accompanying Chrome Extension that automatically checks 404'd pages for an archived copy <https://chrome.google.com/webstore/detail/wayback-machine/fpnmgdkabkmnadcjpehmlllkndpkmiak?hl=en-US>
 	* <https://archive.org/projects/>
 
+
+## Privacy vs Security
+
+I should go more into this, but for now, I have two articles for you to read. 
+
+* https://www.secureworks.com/blog/privacy-vs-security
+* https://www.wsj.com/articles/privacy-vs-security-its-a-false-dilemma-11570389477
+
+
 ### Tracking
 * A famous quote about the internet is “If a service is free, the product is you”. this applies from social media to news sites to free antivirus. Silicon Valley is built on advertising money, and they make their money targeting advertisements. The more targeted, the more money they can charge. It isn't always advertisments though. Anything can be  turned into a dataset from pictures of your face, your conversations, any behavioral feature, or things like what you buy and what malware you download.
      * Read how it works:
@@ -119,7 +130,7 @@ Read all of this.
     * Install Disconnect and Ghostery
        * <https://www.ghostery.com/>
        * <https://disconnect.me/>
-
+       
 
 ## Search Engines and Tracking
 We just taught you about Google hacking, immediately followed by tracking.
