@@ -8,19 +8,19 @@ Read all of this.
 * <https://www.internetsociety.org/internet/what-internet/history-internet/brief-history-internet>
 * <https://web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm>
 * <https://www.zakon.org/robert/internet/timeline/>
-1.
-2.
-3.
-4.
-5.
+
+
+1. Should I have questions for this? Yes? Did I make them yet? No.
+2. For your response, submit 5 questions that you think would do a good job of assessing someone's knowledge. 
+
 
 
 ### How it All Works Together
 * Internet Hosting providers  
    * <https://en.wikipedia.org/wiki/Web_hosting_service>
-   1.
-   2.
-   3.
+   
+1. Should I have questions for this? Yes? Did I make them yet? No.
+2. For your response, submit 5 questions that you think would do a good job of assessing someone's knowledge. 
 
    * For usna.edu:
       * Get IP of Domain Name <https://mxtoolbox.com/DNSLookup.aspx>
@@ -33,16 +33,16 @@ Read all of this.
    * <https://whois.domaintools.com/>
    * <https://www.interserver.net/tips/kb/whois-lookup-explained/>
    1. What is a registrar?
-   2.
-   3.
+   2. Should I have more questions for this? Yes? Did I make them yet? No.
+   3. For your response, submit 5 questions that you think would do a good job of assessing someone's knowledge. 
 
 
 * Internet Routing
    * <https://web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm>
    * <https://medium.com/@User3141592/how-does-the-internet-work-edc2e22e7eb8>
-1.
-2.
-3.
+   
+1. Should I have questions for this? Yes? Did I make them yet? No.
+2. For your response, submit 5 questions that you think would do a good job of assessing someone's knowledge. 
 
 ### The Internet
 
@@ -50,13 +50,14 @@ Read all of this.
    * <https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works>
    * <https://medium.com/@maneesha.wijesinghe1/what-happens-when-you-type-an-url-in-the-browser-and-press-enter-bb0aa2449c1a>
    1. What is the difference between client side and server side?
-   2.
-   3.
+   2. Should I have more questions for this? Yes? Did I make them yet? No.
+   3. For your response, submit 5 questions that you think would do a good job of assessing someone's knowledge. 
 
 * How do websites work? Read and do all of this: <https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web>
 * How do web apps work? <https://www.lifewire.com/what-is-a-web-application-3486637>
-1.
-2.
+1. Should I have questions for this? Yes? Did I make them yet? No.
+2. For your response, submit 5 questions that you think would do a good job of assessing someone's knowledge. 
+
 
 * Learn about common error codes! <https://www.digitalocean.com/community/tutorials/how-to-troubleshoot-common-http-error-codes>
 1. What is a 404 response?
@@ -133,6 +134,9 @@ Duck Duck Go cares a lot about privacy. It doesn't have as good search results a
 * Wireshark will get a ton more work in the Networking follow on course.
 
 ### Wireshark Tutorial Must Haves
+I'm sorry I didn't make the Wireshark tutorial yet. But good is the enemy of done, you know what I am saying?
+
+
 1. Live Capture
    * Statistics
       * Protocol Hierarchy
