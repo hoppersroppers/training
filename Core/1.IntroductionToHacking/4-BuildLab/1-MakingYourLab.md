@@ -9,16 +9,34 @@ Why do we use virtualization?
 
 Write up a few sentences on the primary benefits of running a virtualized environment inside of your Windows machine.
 
-## Installing Ubuntu in VMWare
-Install VMware <https://www.vmware.com/go/tryplayerpro-win-64>
+## Installing VMWare
+Install free virtualization software to run your virtual machine in! 
 
+I recommend vmware player, as that has been what I have always used, however there are many alternatives, primarily VirtualBox and QEMU. If you already have one of these two installed, use them if you don't want to download an extra program to your computer. It will slightly change your VM experience, but everything that happens inside the VM will remain the same so it will not hurt your ability to learn. 
+
+[http://www.vmware.com/go/tryplayerpro-win-64](http://www.vmware.com/go/tryplayerpro-win-64)
+
+This should be very straightforward. When you are complete, submit a screenshot of VMWare (or whatever you decided to use). Use the Microsoft 'Snip' tool to forever change your screenshot game. Just type "Snip" into the search bar and it will appear.
 Install Ubuntu <https://www.ubuntu.com/download/desktop>
 
+## Install Ubuntu 
+
+Install the Linux operating system Ubuntu using your virtualization software of choice!
+
+
 I could give you more information on what to do for this, but there are a ton of tutorials and youtube videos out there. Should be an easy google, and the information doesn't change too much. Let us know if you have any problems, but I recommend going step by step through a tutorial. This is your first challenge that we are telling you to figure it out yourself.
+
 
 Image: <https://i.imgur.com/H9fKKLN.jpg>
 Source: <https://www.instagram.com/thesquarecomics/?fbclid=IwAR2CmW61jGcMjY3uYpSq_N86zrlYibt7Ysted3GtyuOR-nmXkUDKZHml6GU>
 You might notice we always try to link to the source of things, even dank memes. It's a weird thing to care about, but it is so easy to repost images without any way of crediting the author.
+
+## VMWare Tools
+Your VM might have automatically done this for you, or perhaps your guide had you did this. If not, you need to install VMWare Tools for Ubuntu. If you are not using VMWare, skip this.
+
+You need this for a lot of critical usability things, and it doesn't come pre-installed. You have most likely already seen prompts telling you to do this. Do it. I'll be honest, this can be kinda difficult sometimes, but you gotta figure your own way through this. Again, if you have any trouble, and this takes more than a half hour to figure out, call someone over or message us and we will help you out. There is no shame, I've had VMs before that I gave up trying to install VMWare tools and just sucked it up for a week. You'll be on this VM for a while, so you need to get it installed.
+
+When complete, submit a screenshot that shows VMWaretools installed.
 
 ## Make it Yours
 Now you need to make this house a home, have fun with it. This is a random smattering of things that I highly recommend you do, both for quality of life and for getting accustomed to how things work.
