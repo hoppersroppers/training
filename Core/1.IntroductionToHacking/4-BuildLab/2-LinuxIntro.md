@@ -71,6 +71,18 @@ Complete [http://overthewire.org/wargames/bandit/](http://overthewire.org/wargam
 
 # Maybe Add these Later?
 
+Apt get update 
+Apt get upgrade
+Tar/go
+Rpm esque
+Ps kill
+Ip and DNS info
+Firewall
+Cron job
+Epoch time
+Logs
+Difference between windows and linux file systems 
+
 6. Install WINE. Yes, you can run Windows programs in Linux. It can get weird, but it works.
 7. Use WINE to play Minesweeper
 15. Virtual workspaces: Switch between workspaces and use the tweak tool to do stuff.
